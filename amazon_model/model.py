@@ -1,44 +1,27 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
 
-df = pd.read_csv("DSS/training_amazon_cleaned.csv")
+# df = pd.read_csv("DSS/WWF-DSS-SP26/amazon_model/training_amazon_cleaned.csv")
+# df = pd.read_csv("DSS/model_training_cleaned.csv")
+# df = pd.read_csv("DSS/new_amazon_model_training_data.csv")
+df = pd.read_csv("DSS/new_single_model_training_data.csv",
+                 encoding="latin1")
 
-target_col = "priority_place_simple"
-
-if target_col not in df.columns:
-    priority_map = {
-        "amazon": "Amazon",
-        "arctic": "Arctic",
-        "coral triangle": "Coral Triangle",
-        "yucatan": "Mesoamerica",
-        "swio": "SWIO",
-        "eastern pacific": "Eastern Pacific",
-        "southern africa": "Southern Africa",
-    }
-    df["IP or Country"] = df["IP or Country"].astype(str)
-    ip_lower = df["IP or Country"].str.lower().fillna("")
-    labels = []
-    for v in ip_lower:
-        label = "Other"
-        for k, lab in priority_map.items():
-            if k in v:
-                label = lab
-                break
-        labels.append(label)
-    df[target_col] = labels
-
+target_col = "Priority Place"
+df[target_col] = df[target_col].astype(str).str.strip()
 df = df[df[target_col].notna()]
 
 text_cols = [
-    "WD Cost Center Hierarchy",
+    "Cost Center",
+    "Program Code",
     "Grant",
-    "Program",
-    "Project Area",
-    "IP or Country",
+    "Country",
 ]
 
 for c in text_cols:
@@ -51,11 +34,12 @@ df["text_all"] = df[text_cols].fillna("").agg(" ".join, axis=1)
 X = df["text_all"]
 y = df[target_col]
 
+n_classes = y.nunique()
 X_train, X_test, y_train, y_test = train_test_split(
     X,
     y,
     test_size=0.2,
-    stratify=y,
+    stratify=y if n_classes > 1 else None,
     random_state=42,
 )
 
@@ -77,9 +61,33 @@ rf_clf = Pipeline([
 ])
 
 rf_clf.fit(X_train, y_train)
+y_pred = rf_clf.predict(X_test)
 
 print("Train accuracy:", rf_clf.score(X_train, y_train))
 print("Test accuracy:", rf_clf.score(X_test, y_test))
 print()
 print("Classification report:")
 print(classification_report(y_test, rf_clf.predict(X_test)))
+
+labels = sorted(y.unique())
+cm = confusion_matrix(y_test, y_pred, labels=labels)
+ 
+fig, ax = plt.subplots(figsize=(12, 10))
+disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labels)
+disp.plot(
+    ax=ax,
+    cmap="Blues",
+    colorbar=True,
+    xticks_rotation=45,
+)
+ 
+ax.set_title("Random Forest — Confusion Matrix", fontsize=14, pad=16)
+ax.set_xlabel("Predicted", fontsize=11)
+ax.set_ylabel("True", fontsize=11)
+ax.xaxis.set_tick_params(labelsize=9)
+ax.yaxis.set_tick_params(labelsize=9)
+ 
+plt.tight_layout()
+plt.savefig("DSS/confusion_matrix.png", dpi=150, bbox_inches="tight")
+print("Saved confusion_matrix.png")
+ 
