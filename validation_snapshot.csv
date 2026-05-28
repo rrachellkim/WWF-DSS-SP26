@@ -1,0 +1,877 @@
+Cost Center,Program Code,Grant,Country,Big Bet,original_label,predicted_label,confidence,ml_classified,excluded_multi_label,disagrees
+CC215 Corporate Fundraising,43900000 PSE Communications,GR000000.01 Non-Program Unrestricted PSE,,Private Sector ,,Amazon,0.582,True,False,
+CC400 Program Operations Central,"PANORAMA PANORAMA: Workday, Adaptive, Smart Simple Systems",GR000012.00 Panorama - Funded through carryforward,,Other,,Amazon,0.566,True,False,
+CC400 Program Operations Central,40000000 Program Management - General,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.578,True,False,
+CC400 Program Operations Central,"PANORAMA PANORAMA: Workday, Adaptive, Smart Simple Systems",GR000042.00 Panorama - OSP Board Payout,,Other,,Amazon,0.56,True,False,
+CC400 Program Operations Central,10400066 COU DocLink for Sage,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.578,True,False,
+CC400 Program Operations Central,10900001 Workday Learning,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.554,True,False,
+CC401 Network Commitments,40000002 Network Services,GR000001.01 Program Unrestricted - cc000,,Network Services,,Amazon,0.4,True,False,
+CC402 Grants Administration and Compliance,40000000 Program Management - General,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.612,True,False,
+CC403 Financial Reporting and Compliance,40000000 Program Management - General,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.488,True,False,
+CC404 Wildlife Tech,9F071701 KAZA Elephants and Other Wildlife,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Southern Africa,Southern Africa,0.742,True,False,False
+CC404 Wildlife Tech,9Z210406 Wildlabs,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.378,True,False,
+CC404 Wildlife Tech,9Z210400 Wildlife Crime Technology,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.45,True,False,
+CC404 Wildlife Tech,9Z210407 e-DNA,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.444,True,False,
+CC404 Wildlife Tech,9Z210407 e-DNA,GR011771.16 Bequest Laura L Sterns - DNA/eDNA contributions to Dzanga-Sangha forest elephant- cc404 - 15.5%,,Landscape,Congo,Congo Basin,0.862,False,False,False
+CC404 Wildlife Tech,9Z210400 Wildlife Crime Technology,GR000336.11 Protect Elephants Bucket - Technology for Elephants - 404 - 15.5%,,Resilience,,Amazon,0.376,True,False,
+CC404 Wildlife Tech,9Z210408 Wildlife Technology,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.476,True,False,
+CC404 Wildlife Tech,9Z210407 e-DNA,GR000011.02 Restricted Coverage Identified,,Landscape,,Amazon,0.41,True,False,
+CC404 Wildlife Tech,9Z210400 Wildlife Crime Technology,GR000336.04 Protect Elephants - 404,,Resilience,,Amazon,0.472,True,False,
+CC404 Wildlife Tech,9Z210407 e-DNA,GR000340.02 Wildlife Technology Bucket - e-DNA - 404 - 15.5%,,Landscape,,Amazon,0.422,True,False,
+CC404 Wildlife Tech,9Z210400 Wildlife Crime Technology,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.376,True,False,
+CC404 Wildlife Tech,9Z210400 Wildlife Crime Technology,GR000310.04 Help Species in Peril - 404,,Resilience,,Amazon,0.414,True,False,
+CC404 Wildlife Tech,9Z210406 Wildlabs,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.476,True,False,
+CC404 Wildlife Tech,9Z210400 Wildlife Crime Technology,GR000340.01 Wildlife Technology Bucket - 404,,Resilience,,Amazon,0.524,True,False,
+CC405 Eastern Himalayas,9S008400 Tigers - Eastern Himalayas,GR011605.02 - Discovery - Project CAT - BHL - CC405,,Landscape,Eastern Himalaya,Eastern Himalayas,1.0,False,False,False
+CC405 Eastern Himalayas,9S214000 Asian Greater One-Horned Rhinos,GR000327.05 Asian Greater One-Horned Rhinos Bucket - 405 - 15.5%,,Landscape,Eastern Himalaya,Eastern Himalayas,0.954,False,False,False
+CC405 Eastern Himalayas,9S008400 Tigers - Eastern Himalayas,GR000011.02 Restricted Coverage Identified,,Landscape,Eastern Himalaya,Eastern Himalayas,0.998,False,False,False
+CC405 Eastern Himalayas,9S214000 Asian Greater One-Horned Rhinos,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Eastern Himalaya,Eastern Himalayas,0.968,False,False,False
+CC405 Eastern Himalayas,9S214000 Asian Greater One-Horned Rhinos,GR000321.04 Protect Rhinos Bucket - 405,,Landscape,Eastern Himalaya,Eastern Himalayas,0.972,False,False,False
+CC405 Eastern Himalayas,9S008400 Tigers - Eastern Himalayas,GR000320.07 Save the Tigers in the Wild - CC405,,Landscape,Eastern Himalaya,Eastern Himalayas,0.994,False,False,False
+CC405 Eastern Himalayas,9S008400 Tigers - Eastern Himalayas,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Eastern Himalaya,Eastern Himalayas,0.986,False,False,False
+CC405 Eastern Himalayas,9S008400 Tigers - Eastern Himalayas,GR000720.13 Eastern Himalayas Bucket - CC405,,Landscape,Eastern Himalaya,Eastern Himalayas,1.0,False,False,False
+CC405 Eastern Himalayas,9Z125600 Wildlife Trade & Wildlife Law,GR011598.01 INL - Countering Wildlife Trafficking in South and Southeast Asia - HQ,,Resilience,Eastern Himalaya,Eastern Himalayas,0.974,False,False,False
+CC405 Eastern Himalayas,9Z125621 Wildlife Enforcement and Zero Poaching,GR000337.03 Bucket Ranger Support - 405,,Resilience,,Eastern Himalayas,0.966,False,False,
+CC405 Eastern Himalayas,9S090000 Eastern Himalayan General - Wildlife,GR000720.14 Moxness Eastern Himalayas - CC405,,Landscape,Eastern Himalaya,Eastern Himalayas,1.0,False,False,False
+CC405 Eastern Himalayas,9S090000 Eastern Himalayan General - Wildlife,GR000720.13 Eastern Himalayas Bucket - CC405,,Landscape,Eastern Himalaya,Eastern Himalayas,1.0,False,False,False
+CC405 Eastern Himalayas,9S090000 Eastern Himalayan General - Wildlife,GR000011.02 Restricted Coverage Identified,,Landscape,Eastern Himalaya,Eastern Himalayas,0.998,False,False,False
+CC405 Eastern Himalayas,9S090000 Eastern Himalayan General - Wildlife,GR012230.01 Gates Family Fdn  Poha Fund  Balbi Brooks  HQ CC405,,Landscape,Eastern Himalaya,Eastern Himalayas,0.998,False,False,False
+CC405 Eastern Himalayas,9S090000 Eastern Himalayan General - Wildlife,GR000720.16 Eastern Himalayas Bucket - CC405 - 0%,,Landscape,Eastern Himalaya,Eastern Himalayas,0.998,False,False,False
+CC405 Eastern Himalayas,9S073661 Asian Elephants - Eastern Himalayas,GR000336.08 Protect Elephants - Asian Elephants - 405 - 15.5%,,Landscape,Eastern Himalaya,Eastern Himalayas,0.996,False,False,False
+CC405 Eastern Himalayas,9S090000 Eastern Himalayan General - Wildlife,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Eastern Himalaya,Eastern Himalayas,0.996,False,False,False
+CC405 Eastern Himalayas,9S090000 Eastern Himalayan General - Wildlife,GR012624.01 DAF Eastern Himalayas Bucket - 405 - 15.5%,,Landscape,Eastern Himalaya,Eastern Himalayas,0.994,False,False,False
+CC405 Eastern Himalayas,9Z210407 e-DNA,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Eastern Himalayas,0.984,False,False,
+CC405 Eastern Himalayas,9S073661 Asian Elephants - Eastern Himalayas,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Eastern Himalaya,Eastern Himalayas,0.984,False,False,False
+CC405 Eastern Himalayas,9S073603 Asian Elephants  India,GR000336.08 Protect Elephants - Asian Elephants - 405 - 15.5%,India,Landscape,,Eastern Himalayas,0.97,False,False,
+CC405 Eastern Himalayas,9S073605 Asian Elephant Collaring,GR000307.04 Asian Rhinos & Elephants Bucket - 405 - 15.5%,,Landscape,Eastern Himalaya,Eastern Himalayas,0.98,False,False,False
+CC407 Chief Conservation Officer,40700000 Conservation Programs,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.472,True,False,
+CC407 Chief Conservation Officer,40700100 Strategy and Impact,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.466,True,False,
+CC408 EFL- Bhutan For Life,BT200301 Bhutan for Life - Transition Fund,GR007900.01 Bhutan for Life - GCF - 408,,Landscape,Eastern Himalaya,Eastern Himalayas,0.978,False,False,False
+CC408 EFL- Bhutan For Life,BT200301 Bhutan for Life - Transition Fund,GR004332.02 Bhutan for Life - Transition Fund - 408i,,Landscape,Eastern Himalaya,Eastern Himalayas,0.912,False,False,False
+CC408 EFL- Bhutan For Life,BT200301 Bhutan for Life - Transition Fund,GR004301.02 Bhutan for Life - Transition Fund - 408,,Landscape,Eastern Himalaya,Eastern Himalayas,0.95,False,False,False
+CC408 EFL- Bhutan For Life,BT200301 Bhutan for Life - Transition Fund,GR004357.08 Bhutan for Life - Transition Fund - 408h,,Landscape,Eastern Himalaya,Eastern Himalayas,0.952,False,False,False
+CC408 EFL- Bhutan For Life,BT200301 Bhutan for Life - Transition Fund,GR005J42.01 BFL - Transition Funds - 408b,,Landscape,Eastern Himalaya,Eastern Himalayas,0.868,False,False,False
+CC409 EFL - Earth for Life,BEF00003 Bezos  PFP  Namibia,GR010441.01 Bezos-PFP-Transition Funds - 409,Namibia,Landscape,Southern Africa,Southern Africa,0.758,False,False,False
+CC409 EFL - Earth for Life,BEF00004 Bezos  PFP  Belize,GR010441.01 Bezos-PFP-Transition Funds - 409,Belize,Landscape,,Amazon,0.892,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR011370.02 CC409 Enduring Earth - GEF,Namibia,Landscape,Southern Africa,Southern Africa,0.754,True,False,False
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR012321.01 PFP Deal Funds_Ubbens--cc409,,Landscape,,Amazon,0.768,True,False,
+CC409 EFL - Earth for Life,9L082206 PFP - Belize,"GR012134.01 Resilient, Bold Belize",Belize,Landscape,,Amazon,0.688,True,False,
+CC409 EFL - Earth for Life,BEF00001 Bezos  PFP  Peru,GR010441.01 Bezos-PFP-Transition Funds - 409,Peru,Landscape,Amazon,Amazon,0.958,False,False,False
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.674,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR011599.01 HECO Marine PFP - CC409,Colombia ,Landscape,Amazon,Amazon,0.886,False,False,False
+CC409 EFL - Earth for Life,9L082223 HECO Leticia Project Administration,GR004950.13 Ubbens - HECO Invest Platform - 409,Colombia ,Landscape,Amazon,Amazon,0.98,False,False,False
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR012825.01 Wal Mart ARPA Communities-- CC 409,Brazil,Landscape,Amazon,Amazon,0.94,True,False,False
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR011018.01 MACP-Enduring Earth-409,,Landscape,,Amazon,0.734,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR004950.16 Ubbens PFP - CC409,,Landscape,,Amazon,0.794,True,False,
+CC409 EFL - Earth for Life,BEF00006 Bezos  PFP  Other,GR010441.02 Bezos-PFP-Coordination Fund - 409,,Landscape,,Amazon,0.828,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR000011.02 Restricted Coverage Identified,,Landscape,,Amazon,0.674,True,False,
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.712,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR011880.01 EE Grantham-- CC409,,Landscape,,Amazon,0.764,True,False,
+CC409 EFL - Earth for Life,YucaPFP1 Yucatan PFP Development,GR013013.01 Yucatan Vive PFP -- CC 409,,Landscape,,Amazon,0.774,True,False,
+CC409 EFL - Earth for Life,BEF00002 Bezos  PFP  Colombia,GR000011.01 Uncovered Salaries and Expenses,Colombia ,Landscape,Amazon,Amazon,0.92,False,False,False
+CC409 EFL - Earth for Life,BEF00004 Bezos  PFP  Belize,GR010441.02 Bezos-PFP-Coordination Fund - 409,Belize,Landscape,,Amazon,0.938,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR010662.02 HeCo Colombia - CC409,Colombia ,Landscape,Amazon,Amazon,0.918,False,False,False
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR011768.01 OECM Capacity Building -- 409,,Landscape,Eastern Himalaya,Eastern Himalayas,0.66,True,False,False
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR003855.01 Earth for Life - 409,,Landscape,,Amazon,0.754,True,False,
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR000011.02 Restricted Coverage Identified,,Landscape,,Amazon,0.672,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR000001.02 Goal Core Allocation - Unrestricted,,Landscape,,Amazon,0.794,True,False,
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR011350.01 Enduring Earth Bucket- 409,Brazil,Landscape,Amazon,Amazon,0.906,True,False,False
+CC409 EFL - Earth for Life,BEF00002 Bezos  PFP  Colombia,GR010441.02 Bezos-PFP-Coordination Fund - 409,Colombia ,Landscape,Amazon,Amazon,0.976,False,False,False
+CC409 EFL - Earth for Life,51300001 Seascapes,GR012343.01 Moore_30X30 - HQ cc409 12.5% to HQ,,Landscape,,Amazon,0.782,True,False,
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR011018.01 MACP-Enduring Earth-409,,Landscape,,Amazon,0.722,True,False,
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR011418.03 Sall - SW Amazon - 409,"Peru, Bolivia",Landscape,Amazon,Amazon,0.952,False,False,False
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR012343.01 Moore_30X30 - HQ cc409 12.5% to HQ,,Landscape,Amazon,Amazon,0.9,True,False,False
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR012952.01 Moore Mechanisms in Brazilian Amazon--CC 409,Brazil,Landscape,Amazon,Amazon,0.96,False,False,False
+CC409 EFL - Earth for Life,BEF00005 Bezos  PFP  Comms,GR010441.02 Bezos-PFP-Coordination Fund - 409,,Landscape,,Amazon,0.914,True,False,
+CC409 EFL - Earth for Life,BEF00006 Bezos  PFP  Other,GR007700.17 Enduring Earth Financial Supervision CC409,,Landscape,,Amazon,0.784,True,False,
+CC409 EFL - Earth for Life,9L082204 PFP - Colombia,GR010662.02 HeCo Colombia - CC409,Colombia ,Landscape,Amazon,Amazon,0.99,False,False,False
+CC409 EFL - Earth for Life,BEF00002 Bezos  PFP  Colombia,GR010441.01 Bezos-PFP-Transition Funds - 409,Colombia ,Landscape,Amazon,Amazon,0.956,False,False,False
+CC409 EFL - Earth for Life,41000053 Earth for Life - Forest,GR010441.02 Bezos-PFP-Coordination Fund - 409,,Landscape,,Amazon,0.8,True,False,
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR013000.01 PPG Inclusive Conservation Initiative,,Landscape,,Amazon,0.614,True,False,
+CC409 EFL - Earth for Life,41000054 Forest-Enduring Earth,GR000001.03 Program Enhancements - Unrestricted,,Landscape,,Amazon,0.742,True,False,
+CC410 Forest Goal Management,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.63,True,False,
+CC410 Forest Goal Management,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.606,True,False,
+CC410 Forest Goal Management,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.58,True,False,
+CC410 Forest Goal Management,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Infrastructure,,Amazon,0.652,True,False,
+CC410 Forest Goal Management,41000000 Forest Goal Management,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.636,True,False,
+CC410 Forest Goal Management,41000000 Forest Goal Management,GR003947.01 FSC Certified Paper and Tissue Campain - 436,,Private Sector ,,Amazon,0.71,True,False,
+CC410 Forest Goal Management,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.568,True,False,
+CC412 Markets,US204900 Food Program Management,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.446,True,False,
+CC412 Markets,47000001 Private Sector Supply Chain,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.536,True,False,
+CC412 Markets,12231003 Outcome 3 - Pre-Competitive Hubs,GR012255.01 YUM DCF Strategy CC412 - 15.5%,,Private Sector ,,Amazon,0.45,True,False,
+CC412 Markets,10571002 PSL Outcome 2 - Agriculture,GR012255.01 YUM DCF Strategy CC412 - 15.5%,,Private Sector ,,Amazon,0.45,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR012552.01 ReFED US Food Waste Pact - CC414,,Other,,Amazon,0.444,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR012002.02 Kroger Round Up - Food Loss and Waste - 414,,Other,,Amazon,0.544,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR013161.01 Hilton Food Loss - 414,,Other,,Amazon,0.492,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR000268.01 Food Waste Bucket - 414,,Other,,Amazon,0.48,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR012199.01 AHLA - Hotel Kitchen Refresh - CC414,,Other,,Amazon,0.492,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.382,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR000267.04 Food Goal Bucket - Sally Mead Hands Match - 414,,Other,,Amazon,0.564,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR011862.01 EPA - Food Waste REO - CC414,,Other,,Amazon,0.492,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR003584.01 Zero Hunger- Food Waste - 414,,Other,,Amazon,0.492,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR0035A4.01 Wild Classroom- Food Waste Curriculum - 414,,Other,,Amazon,0.48,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR003467.06 Hilton Food Waste - 414,,Other,,Amazon,0.582,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR013206.01 Aldi - Food Loss and Waste - CC414,,Other,,Amazon,0.492,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR012418.01 VoLo Fdn - Food Waste Warriors 2024-2025 - CC414,,Other,,Amazon,0.572,True,False,
+CC414 Food Waste,47000031 Food Loss and Waste,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.428,True,False,
+CC414 Food Waste,47000032 Food Waste Global Initiative,GR013126.01 WRI- Global Food Waste - CC414,,Other,,Amazon,0.376,True,False,
+CC414 Food Waste,47000032 Food Waste Global Initiative,GR012863.01 Global Methane Hub - Food Waste - CC414,,Other,,Amazon,0.376,True,False,
+CC414 Food Waste,47000032 Food Waste Global Initiative,GR013189.01 Posner Fdn - FLW - FY25 - CC414,,Other,,Amazon,0.376,True,False,
+CC416 Forest and Climate Program (FCP),9Z140050 Apple NBSOP,GR011969.01 NBSOP - Implementation - Apple - 416 - 10%,Vietnam,Resilience,Greater Mekong,Greater Mekong,0.748,True,False,False
+CC416 Forest and Climate Program (FCP),9Z140053 NbSOP Climate,GR011968.02 Apple Inc - Nature-Based Solutions Origination Platform: Forest - 416,,Resilience,,Amazon,0.508,True,False,
+CC416 Forest and Climate Program (FCP),9Z140054 NbSOP Oceans,GR011967.03 Nbs Origination Platform - Ocean Blue Finance - 416,,Resilience,Greater Mekong ,Greater Mekong,0.668,True,False,False
+CC416 Forest and Climate Program (FCP),9Z140013 Forest and Climate  MRV,GR000041.01 Innovation Fund 2,,Resilience,,Amazon,0.61,True,False,
+CC416 Forest and Climate Program (FCP),9Z140052 NbSOP Forest,GR011969.01 NBSOP - Implementation - Apple - 416 - 10%,Vietnam,Resilience,Greater Mekong,Greater Mekong,0.832,True,False,False
+CC416 Forest and Climate Program (FCP),9Z140051 NbSOP General,GR011969.01 NBSOP - Implementation - Apple - 416 - 10%,Vietnam,Resilience,Greater Mekong,Greater Mekong,0.836,True,False,False
+CC416 Forest and Climate Program (FCP),43100000 Forest-based Carbon Management,GR011969.01 NBSOP - Implementation - Apple - 416 - 10%,,Resilience,,Greater Mekong,0.522,True,False,
+CC416 Forest and Climate Program (FCP),43100000 Forest-based Carbon Management,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.496,True,False,
+CC416 Forest and Climate Program (FCP),43100000 Forest-based Carbon Management,GR000420.01 General Forest Bucket - 416,,Resilience,,Amazon,0.564,True,False,
+CC416 Forest and Climate Program (FCP),43100000 Forest-based Carbon Management,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.498,True,False,
+CC416 Forest and Climate Program (FCP),9Z140013 Forest and Climate  MRV,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.492,True,False,
+CC416 Forest and Climate Program (FCP),9Z140056 NbSOP Other Goals,GR010662.05 HeCo Colombia - 416,,Resilience,Amazon,Amazon,0.664,False,False,False
+CC416 Forest and Climate Program (FCP),9Z140051 NbSOP General,GR012826.01 Advancing High-integrity Landscape Approaches and Strengthening Protected Areas in the Brazilian Amazon - WMT - cc41,Brazil,Resilience,Amazon ,Amazon,0.95,False,False,False
+CC416 Forest and Climate Program (FCP),9Z140051 NbSOP General,GR003596.03 Forests Science Based Targets - 416,,Resilience,,Amazon,0.454,True,False,
+CC419 Integration and Performance Unit,41900000 Network Public Sector Partnerships,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.364,True,False,
+CC419 Integration and Performance Unit,41900000 Network Public Sector Partnerships,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.37,True,False,
+CC419 Integration and Performance Unit,BEF00009 Bezos  Coordination,GR010444.04 Bezos Earth Fund CCO ESSR/M&E - 419,,Other,,Amazon,0.588,True,False,
+CC419 Integration and Performance Unit,9L080301 Southern Chile Project,GR009998.01 Unfunded Other,,Other,,Eastern Pacific Seascape,0.658,False,False,
+CC422 GCF Management Unit,9L082204 PFP - Colombia,GR010662.01 HeCo Colombia - CC422,Colombia ,Landscape,Amazon,Amazon,0.946,False,False,False
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR007901.01 BFL Fee - 422,,Landscape,Eastern Himalaya,Eastern Himalayas,0.808,False,False,False
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR011437.01 HeCo Fee,Colombia ,Landscape,Amazon ,Amazon,0.858,False,False,False
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR010660.01 PPF Coral Reef Rescue - Fiji,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.896,False,False,False
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR010678.01 Recharge Pakistan GCF - CC422,Pakistan ,Resilience,,Amazon,0.624,True,False,
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR011438.01 Recharge Pakistan AE Fee,Pakistan ,Resilience,,Amazon,0.614,True,False,
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR000038.01 Board Payout FY17-19,,Resilience,,Amazon,0.596,True,False,
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR000038.01 Board Payout FY17-19,,Landscape,,Amazon,0.658,True,False,
+CC422 GCF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR000038.01 Board Payout FY17-19,,Landscape,,Amazon,0.658,True,False,
+CC424 Multilateral Engagement,44300002 Multilateral Engagement,GR011054.08 Network Services - World Bank - 424,,Finance,,Amazon,0.688,True,False,
+CC425 Climate Adaptation and Resilience,8C000200 Adaptation and Resilience,GR012241.01 Google c/o Tides Fdtn - ManglarIA (AI) for Mangroves - Climate - 425,,Resilience,,Amazon,0.742,True,False,
+CC425 Climate Adaptation and Resilience,BEF00015 Bezos  Mangroves  Other,GR010442.02 Bezos Mangroves - Climate Resilience - 425,,Resilience,"SWIO, Eastern Pacific",Amazon,0.666,True,True,
+CC425 Climate Adaptation and Resilience,8C000200 Adaptation and Resilience,GR012954.02 Moore Fdn - Climate Resilience - 425 - 0%,,Resilience,,Amazon,0.792,True,False,
+CC425 Climate Adaptation and Resilience,8C000200 Adaptation and Resilience,GR012954.01 Moore Fdn - Climate Resilience - 425 - 12.5%,,Resilience,,Amazon,0.786,True,False,
+CC425 Climate Adaptation and Resilience,8C000206 Corporate Resilience Partnerships,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.472,True,False,
+CC425 Climate Adaptation and Resilience,8C000202 Climate Risk Mgmt,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.546,True,False,
+CC425 Climate Adaptation and Resilience,41800000 Environment and Disaster Management,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.534,True,False,
+CC425 Climate Adaptation and Resilience,41800001 International Institutions,GR000525.01 Australia Wildfires Emergency Response - 425,,Resilience,,Amazon,0.774,True,False,
+CC425 Climate Adaptation and Resilience,8C000200 Adaptation and Resilience,GR000406.01 Climate Change Adaptation & Resilience Bucket - 425,,Resilience,,Amazon,0.786,True,False,
+CC425 Climate Adaptation and Resilience,8C000206 Corporate Resilience Partnerships,GR011021.01 TCCC-Conservation Partnership Phase III - Climate Resilience - 425,,Private Sector ,,Amazon,0.61,True,False,
+CC425 Climate Adaptation and Resilience,8C000200 Adaptation and Resilience,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.64,True,False,
+CC425 Climate Adaptation and Resilience,8C000202 Climate Risk Mgmt,GR011191.01 BMU/OECD: Central and Southeast Asia - 425,"Kazakhstan, Mongolia and Uzbekistan",Resilience,,Amazon,0.714,True,False,
+CC425 Climate Adaptation and Resilience,8C000206 Corporate Resilience Partnerships,GR011282.01 McDonalds: Sust. Supply Chain (Kuhn) - 425,,Private Sector ,,Amazon,0.62,True,False,
+CC425 Climate Adaptation and Resilience,BEF00001 Bezos  PFP  Peru,GR010441.09 Bezos-PFP-Coordination Fund - 425,Peru,Resilience,Amazon ,Amazon,0.932,False,False,False
+CC425 Climate Adaptation and Resilience,8C000202 Climate Risk Mgmt,GR010678.03 Recharge Pakistan GCF - CC425,Pakistan,Resilience,,Amazon,0.77,True,False,
+CC425 Climate Adaptation and Resilience,41800001 International Institutions,"GR000525.04 Australia Wildfires Emergency Response ""Related Activity"" - 425",,Resilience,,Amazon,0.78,True,False,
+CC425 Climate Adaptation and Resilience,8C000200 Adaptation and Resilience,GR010662.04 HeCo Colombia - 425,Colombia ,Resilience,Amazon ,Amazon,0.964,False,False,False
+CC425 Climate Adaptation and Resilience,8C000206 Corporate Resilience Partnerships,GR011501.01 RCG: Adaptation and Resilience - 425,,Private Sector ,,Amazon,0.612,True,False,
+CC425 Climate Adaptation and Resilience,8C000206 Corporate Resilience Partnerships,GR013205.01 Aldi  Risk Assmt and Pilot Environmental Sustainability Strategy Support - 425,,Private Sector ,,Amazon,0.608,True,False,
+CC425 Climate Adaptation and Resilience,8C000202 Climate Risk Mgmt,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.564,True,False,
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR010617.01 Evaluations CBSL Cameroon,,Landscape,Congo ,Congo Basin,0.628,False,False,False
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR010616.02 GEF Ecuador Evaluations,Ecuador,Landscape,Amazon,Amazon,0.824,False,False,False
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR007700.01 Agency Fees from GEF SA007700 - 426,,Resilience,,Amazon,0.478,True,False,
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR007700.01 Agency Fees from GEF SA007700 - 426,,Landscape,,Amazon,0.504,True,False,
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR007700.01 Agency Fees from GEF SA007700 - 426,,Other,,Amazon,0.448,True,False,
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR011054.05 Network Services - GEF - 426,,Landscape,,Amazon,0.466,True,False,
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR007700.01 Agency Fees from GEF SA007700 - 426,,Private Sector ,,Amazon,0.478,True,False,
+CC426 GEF Management Unit,9Z142100 GCF Management Unit-Global Partnerships and Multilateral Engagement,GR007700.01 Agency Fees from GEF SA007700 - 426,,Finance,,Amazon,0.576,True,False,
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR010623.01 Coral Reef Rescue Evaluations,,Landscape,,SW Pacific + Indonesia,0.428,True,False,
+CC426 GEF Management Unit,9Z142902 GEF Manangement Unit,GR007700.01 Agency Fees from GEF SA007700 - 426,,Finance,,Amazon,0.516,True,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR010982.01 Anonymous 24025181:02  2030 Climate Challenge RTC - 427,,Private Sector ,,Amazon,0.534,True,False,
+CC427 Corporate Renewables,41300002 Climate Business Engagement,GR003262.01 CBN Partnership Fees - 427,,Private Sector ,,Amazon,0.53,True,False,
+CC427 Corporate Renewables,41300002 Climate Business Engagement,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.414,True,False,
+CC427 Corporate Renewables,41300002 Climate Business Engagement,GR003503.01 3% Solution- 427,,Private Sector ,,Amazon,0.53,True,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR010530.01 RTC: C2ES Cut Carbon Emissions - 427,,Private Sector ,,Amazon,0.516,True,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR012974.01 CIF Decarb of the U.S. Industrial Sector - 427,,Private Sector ,,Great Plains,0.808,False,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR013331.01 DGA - RTC FY24-25 - 427,,Private Sector ,,Amazon,0.518,True,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR011097.01 RTC Bucket - 427,,Private Sector ,,Amazon,0.512,True,False,
+CC427 Corporate Renewables,41300002 Climate Business Engagement,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.446,True,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR010808.01 Proctor and Gamble: Corporate Renewables - 427,,Private Sector ,,Amazon,0.526,True,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR011868.01 DGA RTC market research,,Private Sector ,,Amazon,0.538,True,False,
+CC427 Corporate Renewables,41300007 Renewable Thermal Collaborative,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.408,True,False,
+CC427 Corporate Renewables,8C000171 Corporate Renewables,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.454,True,False,
+CC427 Corporate Renewables,8C000204 We Are Still In (WASI),GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.392,True,False,
+CC428 GFTN,9Z136500 Global Forest & Trade Network (GFTN),"GR000732.01 Deforestation and forest degradation: Revisiting drivers, trends and responses - 428 - 8.5% (inactive)",,Private Sector ,,Amazon,0.596,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR011804.01 ABA Phase II PSE Plastics - 430,,Other,,Amazon,0.418,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR0035A9.01 ReSource Membership - 430,,Other,,Amazon,0.438,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR012130.01 Circular Solutions to Plastics Pollution Component 1 - 430,,Other,,Amazon,0.442,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR012130.03 Circular Solutions Component 3 - 430,,Other,,Amazon,0.45,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR003333.01 BFA - 430,,Other,,Amazon,0.436,True,False,
+CC430 ReSource Plastics,43900000 PSE Communications,GR011804.01 ABA Phase II PSE Plastics - 430,,Private Sector ,,Amazon,0.476,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR012130.02 Circular Solutions Component 2,,Other,,Amazon,0.48,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR012847.01 TCCF Plastic Cities Plastics - 430,,Other,,Amazon,0.444,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR012130.04 Circular Solutions PMC - 430,,Other,,Amazon,0.432,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.398,True,False,
+CC430 ReSource Plastics,43900000 PSE Communications,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.42,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR013209.01 Aldi Plastics - 430,,Other,,Amazon,0.444,True,False,
+CC430 ReSource Plastics,43043000 ReSource Plastics,GR012994.01 WWF Norway Secondment Plastics Advisor - 430,,Other,,Arctic,0.794,False,False,
+CC432 Policy and Government Affairs,43200000 US Government Affairs,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.384,True,False,
+CC432 Policy and Government Affairs,43043001 Plastics Policy,GR011732.01 ABA - Curbing Global Plastics Pollution Phase II - 432,,Other,,Amazon,0.376,True,False,
+CC432 Policy and Government Affairs,43000012 Federal Legislative Lobbying (Congress)  Direct Contact,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.442,True,False,
+CC432 Policy and Government Affairs,43200000 US Government Affairs,GR013151.01 RPA - ETF - Phasing out U.S. Fossil Fuel - 432,,Other,,Great Plains,0.872,False,False,
+CC432 Policy and Government Affairs,44200033 Cost Share for Recharge Pakistan (unrestricted),GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.452,True,False,
+CC432 Policy and Government Affairs,40300000 SAS Technical Support,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.442,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR011623.01 Moore Codex CC433 0%,,Private Sector ,,Amazon,0.566,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR011464.01 Tapestry Deforestation Conversion-Free Leather CC433 15.5%,,Private Sector ,,Amazon,0.432,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.474,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR011623.07 Moore CC433 12.5% interest,,Private Sector ,,Amazon,0.684,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR000001.03 Program Enhancements - Unrestricted,,Private Sector ,,Amazon,0.616,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.422,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR012193.01 WWF Switzerland Push Project - CC433 12.5%,,Private Sector ,,Amazon,0.52,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR011623.02 Moore CODEX CC433 12.5%,,Private Sector ,,Amazon,0.624,True,False,
+CC433 Markets Institute,9Z139710 Market Institute,GR010355.01 Next California Bucket,,Private Sector ,,Amazon,0.54,True,False,
+CC433 Markets Institute,48000020 CFA Management Unit Ph 2,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.448,True,False,
+CC433 Markets Institute,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.53,True,False,
+CC433 Markets Institute,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.422,True,False,
+CC433 Markets Institute,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.454,True,False,
+CC435 Fisheries,9Z127240 BKI-US,"GR011881.01 Leatherbacks In the Kei Islands, Indonesia-Phase 2 CC435",,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.848,False,False,False
+CC435 Fisheries,9Z127240 BKI-US,"GR011832.01 Leatherback in the Maluku , Indonesia-Phase 2 CC435",,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.854,False,False,False
+CC435 Fisheries,ID020203 Coastal Ecosystem Conserved Areas,GR011419.05 Sall - Chilean Seascapes - 435,Chile,Landscape,Eastern Pacific,Eastern Pacific Seascape,0.95,False,False,False
+CC435 Fisheries,9S081111 Coastal Fisheries Initiative,GR007803.01 EAFM in Eastern Indonesia Project - 435,,Resilience,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.824,False,False,False
+CC436 Forest Trade,9Z136800 GFTN-NA,GR003C05.01 HP - Forest Positive Collaboration and GFTN-NA Participation - 436a,Brazil,Private Sector ,,Amazon,0.758,True,False,
+CC436 Forest Trade,9Z136830 Forest Forward - Advise Implement - WS2,GR011345.01 HPI - Global Forests Protection - 436,,Private Sector ,,Amazon,0.596,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,GR0035D1.01 HP - Forest Positive Collaboration and GFTN-NA Participation - 436b,Brazil,Private Sector ,Amazon,Amazon,0.668,True,False,False
+CC436 Forest Trade,9Z136813 Jurisdictional Approaches,GR011826.01 Sylvamo  Forests Forward Participatory Phase - 436,,Private Sector ,,Amazon,0.634,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.456,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,GR003118.01 NAFTN - 436,"Indo, Vietnam",Private Sector ,"Indonesia and Southern Pacific Islands, Greater Mekong ",Amazon,0.482,True,True,
+CC436 Forest Trade,9Z136813 Jurisdictional Approaches,GR012250.01 Forests Science Based Targets - Phase II - 436,,Private Sector ,,Amazon,0.544,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,GR003947.01 FSC Certified Paper and Tissue Campain - 436,,Private Sector ,,Amazon,0.576,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,GR013115.01 RPA - Science-Based Targets Network - Land Characterization Factors - 436,,Private Sector ,,Amazon,0.496,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.502,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,GR003500.01 New Generations Plantations Project - 436,Vietnam,Private Sector ,Greater Mekong,Greater Mekong,0.654,True,False,False
+CC436 Forest Trade,9Z124505 Network Rubber Specialist,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.52,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.514,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,"GR0035F3.02 - Lowe's  Forests, Climate and People - Year 5 - 436 - (15.22%)",,Private Sector ,,Amazon,0.488,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,GR003C05.01 HP - Forest Positive Collaboration and GFTN-NA Participation - 436a,Brazil,Private Sector ,Amazon,Amazon,0.718,True,False,False
+CC436 Forest Trade,9Z136810 HP - Forest Positive - Comms,GR003C05.01 HP - Forest Positive Collaboration and GFTN-NA Participation - 436a,Brazil,Private Sector ,Amazon,Amazon,0.864,True,False,False
+CC436 Forest Trade,9Z136813 Jurisdictional Approaches,GR003596.01 Forests Science Based Targets - 436,,Private Sector ,,Amazon,0.558,True,False,
+CC436 Forest Trade,9Z136820 Forest Forward - Feasibility - WS1,GR011345.01 HPI - Global Forests Protection - 436,,Private Sector ,,Amazon,0.596,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.48,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,GR0035B6.04 Advancing Sustainability in Global Supply Chains - 436,,Private Sector ,,Amazon,0.466,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,GR013207.01 Aldi  Risk Assessment and Pilot Environmental Sustainability Strategy Support - 436,,Private Sector ,,Amazon,0.582,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,GR0035D1.01 HP - Forest Positive Collaboration and GFTN-NA Participation - 436b,,Private Sector ,,Amazon,0.654,True,False,
+CC436 Forest Trade,9Z136810 HP - Forest Positive - Comms,GR0035D1.01 HP - Forest Positive Collaboration and GFTN-NA Participation - 436b,,Private Sector ,,Amazon,0.812,True,False,
+CC436 Forest Trade,9Z136800 GFTN-NA,"GR0035F3.01 Lowe's Forests, Climate, People Forests - 436",,Private Sector ,,Amazon,0.572,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,"GR010848.01 Walmart Stores, Inc.  Advancing Sustainability - 436",,Private Sector ,,Amazon,0.56,True,False,
+CC436 Forest Trade,9Z136812 Forest Positive  Science,GR011618.01 KC  Transformational Business  2022-2026 - 436,,Private Sector ,,Amazon,0.554,True,False,
+CC436 Forest Trade,43000012 Federal Legislative Lobbying (Congress)  Direct Contact,GR003118.01 NAFTN - 436,,Other,,Amazon,0.6,True,False,
+CC439 Corporate Relationship Management,22300000 Employee Giving,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.504,True,False,
+CC439 Corporate Relationship Management,21500001 Consumer Engagement,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.44,True,False,
+CC439 Corporate Relationship Management,21500001 Consumer Engagement,GR010528.01 RB Airwick - Grasslands Restoration - PSE RM - 439,,Private Sector ,,Great Plains,0.892,False,False,
+CC439 Corporate Relationship Management,21500001 Consumer Engagement,GR011657.01 Finish Reckitt Water RGRB PSE RM - 439,,Private Sector ,,Great Plains,0.872,False,False,
+CC439 Corporate Relationship Management,22300000 Employee Giving,GR000128.01 PSE Corporate Employee Engagement Bucket - 439,,Private Sector ,,Amazon,0.53,True,False,
+CC439 Corporate Relationship Management,21500001 Consumer Engagement,GR012339.01 WWF France Dior Jaguars- 439,,Private Sector ,,Amazon,0.654,False,False,
+CC439 Corporate Relationship Management,22300000 Employee Giving,GR012411.01 Deloitte conservation Focused EE PSE - 439,,Private Sector ,,Amazon,0.556,True,False,
+CC439 Corporate Relationship Management,22300000 Employee Giving,GR010654.01 Deloitte  Climate Strategy and EE RM - 439,,Private Sector ,,Amazon,0.532,True,False,
+CC439 Corporate Relationship Management,21500001 Consumer Engagement,GR012533.01 Dior  Jaguar - PSE RM - 439,,Private Sector ,,Amazon,0.494,False,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.438,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.394,True,False,
+CC439 Corporate Relationship Management,43900000 PSE Communications,GR011347.01 HPI - Global Forests Protection - Comm - 439,,Private Sector ,,Amazon,0.47,True,False,
+CC439 Corporate Relationship Management,43900000 PSE Communications,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.502,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.462,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR011110.01 HPI - Global Forests Protection - PSE RM - CE - 439,,Private Sector ,,Great Plains,0.398,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR000011.03 Institutional Commitments,,Private Sector ,,Amazon,0.504,True,False,
+CC439 Corporate Relationship Management,43900001 PSE Financial Sector,GR000011.03 Institutional Commitments,,Finance,,Amazon,0.504,True,False,
+CC439 Corporate Relationship Management,43900002 PSE Due Diligence,GR000011.03 Institutional Commitments,,Other,,Amazon,0.452,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR011970.01 Apple NbS PSE RM - 439,,Private Sector ,,Amazon,0.5,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR012242.01 Google/Tides Fdn PSE- Mangroves - CC439,,Private Sector ,,Amazon,0.504,True,False,
+CC439 Corporate Relationship Management,43900002 PSE Due Diligence,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.45,True,False,
+CC439 Corporate Relationship Management,43900000 PSE Communications,GR011103.01 TCCC  Partnership - Phase III - Comms - 439,,Private Sector ,,Amazon,0.562,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR011743.01 International Paper - SBTN PSE - CC439,,Private Sector ,,Amazon,0.55,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR013200.01 Aldi PSE RM - 439,,Private Sector ,,Amazon,0.454,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR013199.01 Aldi Bio Risk Filter PSE - 439,,Private Sector ,,Amazon,0.486,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR012827.01 Walmart  ARPA NbS-OP - 439,,Private Sector ,,Amazon,0.52,True,False,
+CC439 Corporate Relationship Management,41300006 Sustainability R&D,GR012851.01 Deloitte Risk Filter PSE- 439,,Private Sector ,,Amazon,0.554,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR011825.01 Sylvamo Forests PSE Phil RM - 439,,Private Sector ,,Amazon,0.522,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR012848.01 TCCF Plastic Smart Cities PSE RM - 439,,Private Sector ,,Amazon,0.502,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR011620.01 Kimberly Clark Trans Philanthropy RM - 439,,Private Sector ,,Amazon,0.522,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR012291.01 Walmart Landscape Monitoring PSE RM - 439,,Private Sector ,,Great Plains,0.402,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR011102.01 TCCC  Partnership - Phase III - RM Transformative - 439,,Private Sector ,,Amazon,0.464,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR012691.01 Salesforce Madagascar PSE RM - 439,,Private Sector ,,Southwest Indian Ocean,0.798,False,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR011655.01 Pacific Life Cetacean Bycatch PSE RM - 439,,Private Sector ,,Amazon,0.538,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR013037.01 TCCF Yucatan PSE RM - 439,,Private Sector ,,Amazon,0.502,True,False,
+CC439 Corporate Relationship Management,43900000 PSE Communications,GR012339.01 WWF France Dior Jaguars- 439,,Private Sector ,,Amazon,0.808,False,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR012254.01 Yum DCF CBN PSE RM - 439,,Private Sector ,,Amazon,0.454,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR011104.01 TCCC  Partnership - Phase III - Philanthropy - 439,,Private Sector ,,Amazon,0.566,True,False,
+CC439 Corporate Relationship Management,43900000 PSE Communications,GR011619.01 Kimberly Clark Trans Comms - 439,,Private Sector ,,Amazon,0.56,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR010855.01 PepsiCo  SCRA RM - 439,,Private Sector ,,Amazon,0.528,True,False,
+CC439 Corporate Relationship Management,43900000 PSE Communications,GR013232.01 Yum PSE Comms - 439,,Private Sector ,,Amazon,0.626,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR011859.01 Macys Corp Water PSE RM - 439,,Private Sector ,,Great Plains,0.406,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR013137.01 IHG - CBN - PSE RM - 439,,Private Sector ,,Amazon,0.454,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR011526.01 General Mills Watershed Climate RM - 439,,Private Sector ,,Amazon,0.438,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR003415.01 P&G Partnership Management - 439,,Private Sector ,,Amazon,0.502,True,False,
+CC439 Corporate Relationship Management,43900002 PSE Due Diligence,GR011795.01 PSE Due Diligence Bucket - 439,,Other,,Amazon,0.492,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR012683.01 P and G Great Cinn Watershed MX PSE RM - 439,,Private Sector ,,Great Plains,0.46,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR011091.01 P and G Amd 19 Advisory Councils - 439,,Private Sector ,,Amazon,0.506,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR013230.01 Meta Platforms - CBN - RM - 439,,Private Sector ,,Amazon,0.452,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR013241.01 CVS CBN PSE RM - 439,,Private Sector ,,Amazon,0.454,True,False,
+CC439 Corporate Relationship Management,41300003 Business Transformation,GR012200.01 AHLA PSE RM - 439,,Private Sector ,,Amazon,0.454,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR011216.01 J and J EE RM - 439,,Private Sector ,,Amazon,0.528,True,False,
+CC439 Corporate Relationship Management,21500000 Corporate Philanthropy,GR012439.01 Pfizer Deforestation Phil PSE RM - 439,,Private Sector ,,Amazon,0.502,True,False,
+CC439 Corporate Relationship Management,41300006 Sustainability R&D,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.504,True,False,
+CC442 Freshwater,44200041 Connected Rivers of Resilience - General,GR010662.03 HeCo Colombia CC442,Colombia ,Resilience,Amazon,Amazon,0.812,False,False,False
+CC442 Freshwater,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.556,True,False,
+CC442 Freshwater,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.534,True,False,
+CC442 Freshwater,44200000 Freshwater Management,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.522,True,False,
+CC442 Freshwater,44000002 Freshwater TDP,GR000001.02 Goal Core Allocation - Unrestricted,,Resilience,,Amazon,0.692,True,False,
+CC442 Freshwater,44200020 Corporate Water Stewardship - General,GR000001.02 Goal Core Allocation - Unrestricted,,Private Sector ,,Amazon,0.46,True,False,
+CC442 Freshwater,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Infrastructure,,Amazon,0.602,True,False,
+CC443 Public & Private Finance,44300020 CFMI Management Unit Ph 4,GR013103.02 Moore DCF Finance Renewal CC443 12.5%,Paraguay,Private Sector ,,Amazon,0.694,True,False,
+CC443 Public & Private Finance,12189003 Awareness Raising,GR012189.03 Enabling and Scaling Up Nature-Related Financial Disclosures - UNDP - IPA CC443 Markets,,Private Sector ,,Amazon,0.638,True,False,
+CC443 Public & Private Finance,44300020 CFMI Management Unit Ph 2,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.598,True,False,
+CC443 Public & Private Finance,44300020 CFMI Management Unit Ph 5,GR013202.01 Aldi Markets CC443 15.5%,,Private Sector ,,Amazon,0.488,True,False,
+CC443 Public & Private Finance,13103001 DCF Finance Renewal Outcome 1 - Paraguay,GR013103.01 Moore DCF Finance Renewal CC443 0%,Paraguay,Private Sector ,,Amazon,0.702,True,False,
+CC443 Public & Private Finance,13103001 DCF Finance Renewal Outcome 1 - Paraguay,GR013103.02 Moore DCF Finance Renewal CC443 12.5%,Paraguay,Private Sector ,,Amazon,0.722,True,False,
+CC443 Public & Private Finance,44300020 CFMI Management Unit Ph 3,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.5,True,False,
+CC443 Public & Private Finance,48000020 CFA Management Unit Ph 3,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.5,True,False,
+CC443 Public & Private Finance,12189001 Technical Development,GR012189.03 Enabling and Scaling Up Nature-Related Financial Disclosures - UNDP - IPA CC443 Markets,,Private Sector ,,Amazon,0.604,True,False,
+CC443 Public & Private Finance,10519001 Private Finance Outcome 1 - Banks & DCF,GR011161.01 Moore Baselining for Financial Institutions CC443 0%,,Private Sector ,,Amazon,0.68,True,False,
+CC444 Program Management & Communications - Wildlife,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.478,True,False,
+CC444 Program Management & Communications - Wildlife,9F073000 Conservation Tourism,GR000011.03 Institutional Commitments,,Other,,Amazon,0.494,True,False,
+CC444 Program Management & Communications - Wildlife,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.44,True,False,
+CC444 Program Management & Communications - Wildlife,US087000 Pollinators & Pesticides,GR012854.01 Supporting Farmers to Move Away from Neonicotinoid Pesticides,,Other,,Amazon,0.488,True,False,
+CC444 Program Management & Communications - Wildlife,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.42,True,False,
+CC444 Program Management & Communications - Wildlife,9F204201 Wildlife Communications,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.482,True,False,
+CC444 Program Management & Communications - Wildlife,9F204201 Wildlife Communications,GR000925.07 Northern Great Plains Bucket - 444 15.5%,,Resilience,,Great Plains,0.942,False,False,
+CC444 Program Management & Communications - Wildlife,40400000 Strategic Initiative Team General,GR000011.01 Uncovered Salaries and Expenses,,Other,,Great Plains,0.344,True,False,
+CC444 Program Management & Communications - Wildlife,PRGMCORE Program Core,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.476,True,False,
+CC445 Climate Change (US Program),BEF00009 Bezos  Coordination,GR010444.01 Bezos Earth Fund Coordination/Science - 445,Peru,Resilience,Amazon ,Amazon,0.894,True,False,False
+CC445 Climate Change (US Program),BEF00016 Bezos - Coordination - Comms,GR010444.01 Bezos Earth Fund Coordination/Science - 445,,Resilience,"SWIO, Eastern Pacific",Amazon,0.674,True,True,
+CC445 Climate Change (US Program),8C000170 US Climate Project,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.518,True,False,
+CC445 Climate Change (US Program),8C000170 US Climate Project,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.458,True,False,
+CC445 Climate Change (US Program),8C000170 US Climate Project,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.476,True,False,
+CC445 Climate Change (US Program),8C000170 US Climate Project,GR000011.02 Restricted Coverage Identified,,Infrastructure,,Amazon,0.578,True,False,
+CC445 Climate Change (US Program),8C000170 US Climate Project,GR000011.02 Restricted Coverage Identified,,Finance,,Amazon,0.522,True,False,
+CC446 Climate Finance,8C000173 Climate Finance General,GR000011.01 Uncovered Salaries and Expenses,,Finance,,Amazon,0.632,True,False,
+CC446 Climate Finance,9Z140050 Apple NBSOP,GR011968.01 Apple Inc - Nature-Based Solutions Origination Platform: Climate Finance - 446,,Resilience,,Amazon,0.612,True,False,
+CC446 Climate Finance,9Z140050 Apple NBSOP,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.502,True,False,
+CC447 Climate Policy,8C000204 We Are Still In (WASI),GR012229.01 Bloomberg Philanthropies - AIAI 2023-2026 - 447,,Other,,Amazon,0.414,True,False,
+CC447 Climate Policy,8C000204 We Are Still In (WASI),GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.388,True,False,
+CC447 Climate Policy,8C000204 We Are Still In (WASI),GR011170.02 Bloomberg/AIAI COP26 Support - 447,,Other,,Amazon,0.492,True,False,
+CC448 Renewable Energy Transition,8C000174 Green Energy Transition,GR000011.01 Uncovered Salaries and Expenses,,Infrastructure,,Amazon,0.622,True,False,
+CC449 Greater Mekong,9S073602 Asian Elephants  Greater Mekong,GR000336.10 Protect Elephants - Asian Elephants Greater Mekong - 449 - 15.5%,,Landscape,Greater Mekong,Greater Mekong,0.99,False,False,False
+CC449 Greater Mekong,9S214000 Asian Greater One-Horned Rhinos,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Greater Mekong,Greater Mekong,0.976,False,False,False
+CC449 Greater Mekong,VN001900 Vietnam BCA & STW Support,GR000011.03 Institutional Commitments,,Landscape,Greater Mekong,Greater Mekong,0.986,False,False,False
+CC449 Greater Mekong,VN001800 Counter Wildlife Trafficking in Vietnam,GR000001.90 Federal Award Suspension,,Landscape,Greater Mekong,Greater Mekong,0.944,False,False,False
+CC449 Greater Mekong,9S073602 Asian Elephants  Greater Mekong,GR000011.02 Restricted Coverage Identified,,Landscape,Greater Mekong,Greater Mekong,0.988,False,False,False
+CC449 Greater Mekong,9S073602 Asian Elephants  Greater Mekong,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Greater Mekong,Greater Mekong,0.934,False,False,False
+CC449 Greater Mekong,9S073602 Asian Elephants  Greater Mekong,GR000336.01 Protect Elephants - 511,,Landscape,Greater Mekong,Greater Mekong,0.96,False,False,False
+CC449 Greater Mekong,9Z140266 Tigers  Thailand DTL,GR0035B1.04 Discovery Communications - Project CAT - 449 - Thailand DTL,,Landscape,,Greater Mekong,0.994,False,False,
+CC449 Greater Mekong,9Z140265 Tigers - Greater Mekong,GR004376.04 Tiger Conflict Management - K. Bishop - 449 - 15.5%,,Landscape,Greater Mekong,Greater Mekong,0.992,False,False,False
+CC449 Greater Mekong,9Z140265 Tigers - Greater Mekong,GR000011.02 Restricted Coverage Identified,,Landscape,Greater Mekong,Greater Mekong,0.994,False,False,False
+CC450 Tigers & Big Cats,ID218300 Thirty Hills Concession,GR000011.03 Institutional Commitments,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.78,False,False,False
+CC450 Tigers & Big Cats,9Z140400 Jaguar Conservation,GR012359.01 Jaguar Corridor Strategy Bucket - 450 - 15.5%,,Landscape,Amazon,Amazon,0.966,False,False,False
+CC450 Tigers & Big Cats,9S008400 Tigers - Eastern Himalayas,GR000320.02 Save the Tigers in the Wild - 450,,Landscape,Eastern Himalaya,Eastern Himalayas,0.86,False,False,False
+CC450 Tigers & Big Cats,9Z140400 Jaguar Conservation,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Amazon,Amazon,0.836,False,False,False
+CC450 Tigers & Big Cats,ID218300 Thirty Hills Concession,GR000011.02 Restricted Coverage Identified,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.638,False,False,False
+CC450 Tigers & Big Cats,ID218300 Thirty Hills Concession,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.576,False,False,False
+CC450 Tigers & Big Cats,9Z140400 Jaguar Conservation,GR000011.02 Restricted Coverage Identified,,Landscape,Amazon,Amazon,0.838,False,False,False
+CC450 Tigers & Big Cats,ID218300 Thirty Hills Concession,GR000431.01 Thirty Hills Bucket - 450,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.808,False,False,False
+CC450 Tigers & Big Cats,9S073403 Tigers - China,GR010532.01 Ferrara Candy for Tigers - 450,China,Landscape,,Amazon,0.696,True,False,
+CC450 Tigers & Big Cats,9Z140400 Jaguar Conservation,GR012532.01 Dior  Jaguar Conservation - Wildlife - 450,,Landscape,Amazon,Amazon,0.94,False,False,False
+CC450 Tigers & Big Cats,9Z140202 Tiger Program Support,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.628,True,False,
+CC450 Tigers & Big Cats,9Z140271 Tigers - C2C Conflict 2 Coexistence,GR004376.04 Tiger Conflict Management - K. Bishop - 449 - 15.5%,,Landscape,,Amazon,0.596,True,False,
+CC450 Tigers & Big Cats,9Z140202 Tiger Program Support,GR0035B1.02 Discovery Communications Project CAT General,,Landscape,,Amazon,0.686,True,False,
+CC450 Tigers & Big Cats,44400000 Wildlife Trade,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.568,True,False,
+CC450 Tigers & Big Cats,9Z140202 Tiger Program Support,GR000320.02 Save the Tigers in the Wild - 450,,Landscape,,Amazon,0.486,True,False,
+CC450 Tigers & Big Cats,9Z140202 Tiger Program Support,GR000011.02 Restricted Coverage Identified,,Landscape,,Amazon,0.646,True,False,
+CC450 Tigers & Big Cats,9Z140202 Tiger Program Support,GR010532.01 Ferrara Candy for Tigers - 450,,Landscape,,Amazon,0.702,True,False,
+CC450 Tigers & Big Cats,9S075000 Snow Leopards,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Eastern Himalayas,0.646,False,False,
+CC450 Tigers & Big Cats,44400000 Wildlife Trade,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.542,True,False,
+CC450 Tigers & Big Cats,9S075000 Snow Leopards,GR000310.02 Help Rescue Species in Peril - 450,,Landscape,,Eastern Himalayas,0.682,False,False,
+CC450 Tigers & Big Cats,9Z140271 Tigers - C2C Conflict 2 Coexistence,GR000320.02 Save the Tigers in the Wild - 450,,Landscape,,Amazon,0.496,True,False,
+CC450 Tigers & Big Cats,9Z140265 Tigers - Greater Mekong,GR000320.02 Save the Tigers in the Wild - 450,,Landscape,Greater Mekong,Greater Mekong,0.864,False,False,False
+CC451 Wildlife Trafficking,9Z240400 Online Trafficking Coalition,GR000345.01 Match L.H. Cybercrime Coalition Project - 451,,Resilience,,Congo Basin,0.414,True,False,
+CC451 Wildlife Trafficking,9Z227803 Ivory Demand Reduction,GR011771.12 Bequest Protect African Elephants and Habitats - Ivory Demand Reduction - 451 - 15.5%,,Resilience,,Southern Africa,0.766,False,False,
+CC451 Wildlife Trafficking,9Z227800 Demand Reduction,GR011334.02 Jewish Community Fdn - Myers - Demand Reduction - 451 - 15.5%,,Resilience,,Amazon,0.338,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR000046.08 Wildlife Crime Bucket - Nature Crimes Alliance - 451 - 15.5%,,Resilience,,Amazon,0.34,True,False,
+CC451 Wildlife Trafficking,9Z239900 Ivory Trafficking,GR011771.03 Bequest - Ivory Trafficking Protection of Wild African Elephants and their habitats - cc451 - 15.15%,,Resilience,,Southern Africa,0.918,False,False,
+CC451 Wildlife Trafficking,9Z240400 Online Trafficking Coalition,GR000046.09 Wildlife Crime Bucket - Online Coalition & Congressional Campaign - 451 - 15.5%,,Resilience,,Congo Basin,0.348,True,False,
+CC451 Wildlife Trafficking,9Z227900 Trafficking,GR004362.02 Glassell - X-Ray Technology - cc451 - 15.5%,,Resilience,,Amazon,0.352,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR000046.04 Wildlife Crime Bucket - US Enforcement and WWF Crime Hub- 451,,Resilience,,Amazon,0.386,True,False,
+CC451 Wildlife Trafficking,9Z240400 Online Trafficking Coalition,GR004362.01 African Pangolin and Online Trafficking - 451,,Resilience,,Congo Basin,0.86,False,False,
+CC451 Wildlife Trafficking,9Z227900 Trafficking,GR000046.10 Wildlife Crime Bucket - Wildlife Trafficking Autodetection Tech - 451 - 15.5%,,Resilience,,Amazon,0.32,True,False,
+CC451 Wildlife Trafficking,9Z210400 Wildlife Crime Technology,GR000046.10 Wildlife Crime Bucket - Wildlife Trafficking Autodetection Tech - 451 - 15.5%,,Resilience,,Amazon,0.328,True,False,
+CC451 Wildlife Trafficking,9Z227900 Trafficking,GR000338.01 TRAFFIC Restitution - 451,,Resilience,,Amazon,0.458,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR000046.07 Wildlife Crime Bucket - Private Sector Transformation - 451 - 15.5%,,Resilience,,Amazon,0.342,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR004815.06 Shawman Creek - Wildlife Trade - cc451 - 0%,,Resilience,,Amazon,0.496,True,False,
+CC451 Wildlife Trafficking,9Z227800 Demand Reduction,GR000046.12 Wildlife Crime Bucket - Demand Reduction Campaign Support - 451,,Resilience,,Amazon,0.448,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR004807.01 Hendrickson Trust Restricted Gift for TRAFFIC - 451,,Resilience,,Amazon,0.466,True,False,
+CC451 Wildlife Trafficking,9Z227900 Trafficking,GR000046.11 Wildlife Crime Bucket - Exotic Pets - 451 - 15.5%,,Resilience,,Amazon,0.334,True,False,
+CC451 Wildlife Trafficking,9Z210400 Wildlife Crime Technology,GR000341.01 Wildlife Trend - 451,,Resilience,,Amazon,0.468,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR000046.11 Wildlife Crime Bucket - Exotic Pets - 451 - 15.5%,,Resilience,,Amazon,0.34,True,False,
+CC451 Wildlife Trafficking,9Z240000 Sniffer Dogs,GR000046.10 Wildlife Crime Bucket - Wildlife Trafficking Autodetection Tech - 451 - 15.5%,,Resilience,,Amazon,0.32,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR000331.01 Wildlife Trade - 451,,Resilience,,Amazon,0.45,True,False,
+CC451 Wildlife Trafficking,9Z210400 Wildlife Crime Technology,GR000046.04 Wildlife Crime Bucket - US Enforcement and WWF Crime Hub- 451,,Resilience,,Amazon,0.394,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR000345.01 Match L.H. Cybercrime Coalition Project - 451,,Resilience,,Amazon,0.44,True,False,
+CC451 Wildlife Trafficking,9Z239800 Tiger Trafficking,GR000320.01 Online Tiger Trafficking - 451,,Resilience,,Amazon,0.396,True,False,
+CC451 Wildlife Trafficking,45100000 Wildlife Crime and Trafficking General Support,GR000328.01 Traffic General Support - 451,,Resilience,,Amazon,0.466,True,False,
+CC452 People and Conservation,9Z138500 CARE Partnership,GR004950.15 Ubbens - CARE - 452,Kenya,Resilience,,Amazon,0.556,True,False,
+CC452 People and Conservation,9Z138500 CARE Partnership,GR000011.01 Uncovered Salaries and Expenses,Kenya,Resilience,,Amazon,0.474,True,False,
+CC453 Conservation Finance,45300000 Sustainable Finance,GR000011.02 Restricted Coverage Identified,,Finance,,Amazon,0.522,True,False,
+CC453 Conservation Finance,45300000 Sustainable Finance,GR000011.01 Uncovered Salaries and Expenses,,Finance,,Amazon,0.58,True,False,
+CC461 Science and Innovation,9Z130820 Fuller Fund - Program Management,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.36,True,False,
+CC461 Science and Innovation,9Z130820 Fuller Fund - Program Management,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.382,True,False,
+CC461 Science and Innovation,9Z130820 Fuller Fund - Program Management,GR004871.01 Fuller TRUST - 461,,Other,,Amazon,0.42,True,False,
+CC461 Science and Innovation,9Z130823 Fuller Fund - Symposium,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.328,True,False,
+CC461 Science and Innovation,9Z130824 Fuller Fund - Seminars,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.36,True,False,
+CC461 Science and Innovation,9Z130824 Fuller Fund - Seminars,GR004871.01 Fuller TRUST - 461,,Other,,Amazon,0.436,True,False,
+CC461 Science and Innovation,9Z130800 Science General-Science,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.436,True,False,
+CC461 Science and Innovation,9Z130814 Global Science Lead for Data Analytics and Technology,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.354,True,False,
+CC461 Science and Innovation,9Z130802 Science General - SVP,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.386,True,False,
+CC461 Science and Innovation,BEF00009 Bezos  Coordination,GR010444.03 Bezos Earth Fund Science - 461,,Other,,Amazon,0.572,True,False,
+CC461 Science and Innovation,9Z133900 Global Library,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.326,True,False,
+CC461 Science and Innovation,9Z130812 Global Science Lead for Conservation Evidence,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.376,True,False,
+CC461 Science and Innovation,9Z130812 Global Science Lead for Conservation Evidence,GR011767.01 MACP Design for People and Nature - 461 15%,,Other,,Amazon,0.368,True,False,
+CC461 Science and Innovation,9Z130814 Global Science Lead for Data Analytics and Technology,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.342,True,False,
+CC461 Science and Innovation,9Z130800 Science General-Science,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.368,True,False,
+CC461 Science and Innovation,9Z130701 Natural Capital - Science,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.426,True,False,
+CC461 Science and Innovation,9Z130701 Natural Capital - Science,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.364,True,False,
+CC461 Science and Innovation,9Z130810 Conservation Dashboard,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.384,True,False,
+CC461 Science and Innovation,9Z130701 Natural Capital - Science,GR000210.01 Nat Cap Conservation Science - 461,,Other,,Amazon,0.442,True,False,
+CC465 EFN - Education For Nature,9Z132500 EFN General,GR000165.01 EFN Endowment Payout - 465,,Other,,Amazon,0.512,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR012022.01 Trudy Fellows Education for Nature Program - CC465,,Other,,Amazon,0.596,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR000165.01 EFN Endowment Payout - 465,,Other,,Amazon,0.51,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR012653.01 World Bank - Funding of the Fonseca Leadership Program - CC465,,Other,,Amazon,0.444,True,False,
+CC465 EFN - Education For Nature,9Z132805 EFN Conservation Workshop Grants,GR003304.01 Education for Nature: Tropical Forest Restoration and Reforestation 2015-2016 - 465,,Other,,Amazon,0.552,True,False,
+CC465 EFN - Education For Nature,9Z133100 EFN Alumni Program,GR000153.01 EFN Operating Fund - 465,,Other,,Amazon,0.502,True,False,
+CC465 EFN - Education For Nature,9Z132500 EFN General,GR000153.01 EFN Operating Fund - 465,,Other,,Amazon,0.508,True,False,
+CC465 EFN - Education For Nature,9Z132500 EFN General,GR010974.01 Bingham EFN/ESSF Capacity Building - 465,,Other,,Amazon,0.53,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR004375.01 WWF Train Fellowship at MSU - 465,,Other,,Amazon,0.496,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR010460.01 Caroline Goldman Cassagnol Fellows Endowment - 465,,Other,,Amazon,0.51,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR004256.01 $2.5 million matching gift for EFN/Train Legacy - 465,,Other,,Amazon,0.51,True,False,
+CC465 EFN - Education For Nature,9Z132805 EFN Conservation Workshop Grants,GR012865.01 EFN-Tropical Forest Reforestation and Restoration - CC465,,Other,,Amazon,0.526,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR004383.01 Lincoln University Mingma Sherpa Memorial Scholarships - 465,,Other,,Amazon,0.51,True,False,
+CC465 EFN - Education For Nature,9Z133100 EFN Alumni Program,GR004815.03 Shaman Creek payout - annual - 465,,Other,,Amazon,0.576,True,False,
+CC465 EFN - Education For Nature,9Z132700 Scholarship & Fellowships,GR000160.01 Train Legacy Fund - 465,,Other,,Amazon,0.508,True,False,
+CC465 EFN - Education For Nature,9Z132500 EFN General,GR012653.01 World Bank - Funding of the Fonseca Leadership Program - CC465,,Other,,Amazon,0.466,True,False,
+CC465 EFN - Education For Nature,9Z133100 EFN Alumni Program,GR004891.01 Kenneth Jay Suid & David Brannon Memorial Fund - 465,,Other,,Amazon,0.502,True,False,
+CC468 Global Science Leadership,9Z130806 Global Science Lead for Biodiversity,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.33,True,False,
+CC468 Global Science Leadership,9Z130804 Global Science Lead for Freshwater,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.412,True,False,
+CC468 Global Science Leadership,9Z130805 Global Science Lead for Oceans,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.316,True,False,
+CC468 Global Science Leadership,9Z130807 Global Science Lead for Climate,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.334,True,False,
+CC468 Global Science Leadership,9Z130804 Global Science Lead for Freshwater,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.328,True,False,
+CC468 Global Science Leadership,9Z130808 Global Science Lead for Forests,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.33,True,False,
+CC468 Global Science Leadership,9Z130809 Global Science Lead for Food,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.312,True,False,
+CC468 Global Science Leadership,9Z130808 Global Science Lead for Forests,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.414,True,False,
+CC468 Global Science Leadership,9Z130809 Global Science Lead for Food,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.39,True,False,
+CC468 Global Science Leadership,9Z130805 Global Science Lead for Oceans,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.386,True,False,
+CC468 Global Science Leadership,9Z130807 Global Science Lead for Climate,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.416,True,False,
+CC468 Global Science Leadership,9Z130800 Science General-Science,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.32,True,False,
+CC468 Global Science Leadership,9Z130805 Global Science Lead for Oceans,GR012261.01 Blue Nature Alliance CI Social Equity Metrics Project - 468,,Other,,Amazon,0.402,True,False,
+CC468 Global Science Leadership,9Z130802 Science General - SVP,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.318,True,False,
+CC468 Global Science Leadership,9Z130806 Global Science Lead for Biodiversity,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.414,True,False,
+CC468 Global Science Leadership,BEF00009 Bezos  Coordination,GR010444.05 Bezos Earth Fund Science Leads - 468,,Other,,Amazon,0.502,True,False,
+CC468 Global Science Leadership,9Z130814 Global Science Lead for Data Analytics and Technology,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.338,True,False,
+CC468 Global Science Leadership,9Z130812 Global Science Lead for Conservation Evidence,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.346,True,False,
+CC468 Global Science Leadership,9Z130807 Global Science Lead for Climate,GR000038.01 Board Payout FY17-19,,Other,,Amazon,0.396,True,False,
+CC468 Global Science Leadership,9Z130806 Global Science Lead for Biodiversity,GR000038.01 Board Payout FY17-19,,Other,,Amazon,0.406,True,False,
+CC468 Global Science Leadership,9Z130804 Global Science Lead for Freshwater,GR000038.01 Board Payout FY17-19,,Other,,Amazon,0.402,True,False,
+CC468 Global Science Leadership,9Z130808 Global Science Lead for Forests,GR000038.01 Board Payout FY17-19,,Other,,Amazon,0.406,True,False,
+CC470 General Food,US087000 Pollinators & Pesticides,GR012854.02 Grantham- Neonicotinoid Pesticides - 470,,Other,,Amazon,0.554,True,False,
+CC470 General Food,47000001 Private Sector Supply Chain,GR012877.01 TBI - Marginal Lands - cc470,,Private Sector ,,Amazon,0.654,True,False,
+CC470 General Food,US204900 Food Program Management,GR012877.01 TBI - Marginal Lands - cc470,,Resilience,,Amazon,0.508,True,False,
+CC473 Blue Finance,9L080310 Oceans Markets,GR013006.01 Walton - Seafood Investor Traceability Engagement CC473,,Finance,,Amazon,0.588,True,False,
+CC473 Blue Finance,9L080310 Oceans Markets,GR000011.01 Uncovered Salaries and Expenses,,Finance,,Amazon,0.496,True,False,
+CC473 Blue Finance,9L080309 Seafood Markets,GR003514.09 Seafood Markets Support for Blue Finance CC473,,Finance,,Amazon,0.634,True,False,
+CC473 Blue Finance,9L080309 Seafood Markets,GR000011.01 Uncovered Salaries and Expenses,,Finance,,Amazon,0.496,True,False,
+CC473 Blue Finance,9L080310 Oceans Markets,GR000011.02 Restricted Coverage Identified,,Finance,,Amazon,0.438,True,False,
+CC473 Blue Finance,9L080310 Oceans Markets,GR003514.09 Seafood Markets Support for Blue Finance CC473,,Finance,,Amazon,0.616,True,False,
+CC473 Blue Finance,9L080309 Seafood Markets,GR000011.02 Restricted Coverage Identified,,Finance,,Amazon,0.43,True,False,
+CC474 Oceans Markets,ID020203 Coastal Ecosystem Conserved Areas,GR012189.02 Enabling and Scaling Up Nature-Related Financial Disclosures - UNDP - IPA- CC474 Ocean,,Landscape,,Amazon,0.474,True,False,
+CC474 Oceans Markets,9L080310 Oceans Markets,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.432,True,False,
+CC474 Oceans Markets,9Z127808 Arctic shipping,GR000011.01 Uncovered Salaries and Expenses,,Other,Arctic ,Arctic,0.832,False,False,False
+CC474 Oceans Markets,9L080310 Oceans Markets,GR011506.01 Royal Caribbean Global Oceans Conservation - Phase II - 474,,Private Sector ,,Amazon,0.516,True,False,
+CC474 Oceans Markets,9L080310 Oceans Markets,GR012773.01 Mary Diorio - Offshore Wind CC474,,Infrastructure,,Amazon,0.634,True,False,
+CC474 Oceans Markets,12189003 Awareness Raising,GR012189.02 Enabling and Scaling Up Nature-Related Financial Disclosures - UNDP - IPA- CC474 Ocean,,Private Sector ,,Amazon,0.514,True,False,
+CC474 Oceans Markets,9Z127808 Arctic shipping,GR000011.02 Restricted Coverage Identified,,Other,Arctic ,Arctic,0.828,False,False,False
+CC474 Oceans Markets,9L080310 Oceans Markets,GR012189.02 Enabling and Scaling Up Nature-Related Financial Disclosures - UNDP - IPA- CC474 Ocean,,Private Sector ,,Amazon,0.516,True,False,
+CC475 F&F Transformation,47000001 Private Sector Supply Chain,GR013365.01 Chobani Commodity Prioritization Assessment 2.0 CC475 15.5%,,Private Sector ,,Amazon,0.55,True,False,
+CC475 F&F Transformation,47000001 Private Sector Supply Chain,GR013201.01 Aldi AgSupply Chain CC475 15.5%,,Private Sector ,,Amazon,0.55,True,False,
+CC475 F&F Transformation,47000001 Private Sector Supply Chain,GR012253.03 YUM - LUCI Workstream - CC475,,Private Sector ,,Amazon,0.722,True,False,
+CC480 CMI,48000020 CFA Management Unit Ph 6,GR012231.02 Moore CMI 2.0 CC480 12.5%,,Private Sector ,,Amazon,0.638,True,False,
+CC480 CMI,48000020 CFA Management Unit Ph 4,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.556,True,False,
+CC480 CMI,48000020 CFA Management Unit Ph 7,GR012294.02 Moore - Cross Cutting CC480 12.5%,,Private Sector ,,Amazon,0.638,True,False,
+CC480 CMI,12294001 Outcome 1 - Carbon in supply chain,GR012294.01 Moore - Cross Cutting CC480 0%,,Private Sector ,,Amazon,0.524,True,False,
+CC480 CMI,12231002 Outcome 2 - Leather,GR012231.01 Moore CMI 2.0 CC480 0%,,Private Sector ,,Amazon,0.602,True,False,
+CC480 CMI,12231003 Outcome 3 - Pre-Competitive Hubs,GR012231.01 Moore CMI 2.0 CC480 0%,,Private Sector ,,Amazon,0.602,True,False,
+CC480 CMI,12294002 Outcome 2 - 1% Levy Environmental Services,GR012294.02 Moore - Cross Cutting CC480 12.5%,,Private Sector ,,Amazon,0.682,True,False,
+CC480 CMI,12231003 Outcome 3 - Pre-Competitive Hubs,GR012231.02 Moore CMI 2.0 CC480 12.5%,,Private Sector ,,Amazon,0.682,True,False,
+CC480 CMI,12231002 Outcome 2 - Leather,GR012231.02 Moore CMI 2.0 CC480 12.5%,,Private Sector ,,Amazon,0.682,True,False,
+CC480 CMI,12294001 Outcome 1 - Carbon in supply chain,GR012294.02 Moore - Cross Cutting CC480 12.5%,,Private Sector ,,Amazon,0.578,True,False,
+CC480 CMI,12231001 Outcome 1 - Soy,GR012231.02 Moore CMI 2.0 CC480 12.5%,,Private Sector ,,Amazon,0.682,True,False,
+CC480 CMI,48000020 CFA Management Unit Ph 5,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.484,True,False,
+CC482 Aquaculture,9Z127620 Seaweed Aquaculture,GR012855.01 Grantham - Seaweed Strain Selection - CC482,,Private Sector ,,Amazon,0.602,True,False,
+CC482 Aquaculture,9Z127620 Seaweed Aquaculture,GR012560.01 TBI - Accelerating Maine Seaweed and Shellfish - CC482,,Private Sector ,,Amazon,0.594,True,False,
+CC482 Aquaculture,48000416 Seaweed Gates - Africa,GR012757.01 Gates Fdn - Seaweed as Feed - CC482,,Private Sector ,,Amazon,0.626,True,False,
+CC482 Aquaculture,9Z127620 Seaweed Aquaculture,GR012757.01 Gates Fdn - Seaweed as Feed - CC482,,Private Sector ,,Amazon,0.6,True,False,
+CC482 Aquaculture,9Z235700 OSMI - Food,GR012678.01 Moore Fdn - STF- C-Free Shrimp Off Ramp- 12.5% - CC482,,Private Sector ,,Amazon,0.612,True,False,
+CC482 Aquaculture,48000413 Seaweed - Social Science,GR012560.01 TBI - Accelerating Maine Seaweed and Shellfish - CC482,,Private Sector ,,Amazon,0.52,True,False,
+CC482 Aquaculture,47000001 Private Sector Supply Chain,GR012757.01 Gates Fdn - Seaweed as Feed - CC482,,Private Sector ,,Amazon,0.716,True,False,
+CC482 Aquaculture,9Z235700 OSMI - Food,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.472,True,False,
+CC482 Aquaculture,48000415 Seaweed Gates - India,GR012757.01 Gates Fdn - Seaweed as Feed - CC482,,Private Sector ,,Eastern Himalayas,0.712,False,False,
+CC482 Aquaculture,9Z127620 Seaweed Aquaculture,GR004386.01 Grantham Advancing Seaweed for Climate Change - 482,,Private Sector ,,Amazon,0.616,True,False,
+CC482 Aquaculture,GT300120 Sustainable Aquaculture,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.462,True,False,
+CC482 Aquaculture,9Z235700 OSMI - Food,GR012678.03 Moore Fdn - Off Ramp Shrimp INTEREST ONLY- CC482,,Private Sector ,,Amazon,0.666,True,False,
+CC483 Beef,47000001 Private Sector Supply Chain,GR012272.01 USDA Traceable Beef for Climate and Conservation - 483,,Private Sector ,,Amazon,0.688,True,False,
+CC483 Beef,47000001 Private Sector Supply Chain,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.618,True,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR011419.04 Sall - Chilean Seascapes - 485,Chile,Landscape,Eastern Pacific ,Eastern Pacific Seascape,0.97,False,False,False
+CC485 Seafood Markets,9Z127211 Vietnam Yellowfin Tuna,GR000011.02 Restricted Coverage Identified,,Resilience,,Greater Mekong,0.656,False,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Amazon,0.46,True,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR010768.01 Mars Seafood Sourcing - 485,,Private Sector ,,Amazon,0.508,True,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR003528.02 Sustainability in Seafood Supply Chain (2016-2020) - 485,,Private Sector ,,Amazon,0.438,True,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR003289.02 Sustainable Seafood 2016-2020 - 485,,Private Sector ,,Amazon,0.478,True,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR003464.03 Hilton Seafood (Year 1 of 3) - 485,,Private Sector ,,Amazon,0.466,True,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR003474.03 Costco Seafood - 485,,Private Sector ,,Amazon,0.52,True,False,
+CC485 Seafood Markets,9L080309 Seafood Markets,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.432,True,False,
+CC490 TNRC Targeting Natural Resource Corruption,9Z229000 Targeting Natural Resource Corruption-Wildlife2,"GR013087.01 Transparency International Co-Coordinator, CECCP Forum-CC490",,Resilience,,Amazon,0.636,True,False,
+CC495 F&F Transformation (FW),44200070 Pantanal,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.512,True,False,
+CC495 F&F Transformation (FW),44200020 Corporate Water Stewardship - General,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Great Plains,0.48,True,False,
+CC495 F&F Transformation (FW),44200020 Corporate Water Stewardship - General,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Great Plains,0.4,True,False,
+CC495 F&F Transformation (FW),44200020 Corporate Water Stewardship - General,GR012828.01 Inditex/WWF INT - Coordination  Inditex Transformational Partnership - Payal L. CC495,,Private Sector ,,Amazon,0.422,True,False,
+CC495 F&F Transformation (FW),44200020 Corporate Water Stewardship - General,GR011105.02 TCCC-Global Partnership - CC 495,,Private Sector ,,Amazon,0.42,True,False,
+CC495 F&F Transformation (FW),44200020 Corporate Water Stewardship - General,GR013208.01 Risk Assessment and Pilot Environmental Sustainability Strategy Support - ALDI - cc495 - 15.5%,,Private Sector ,,Great Plains,0.502,True,False,
+CC495 F&F Transformation (FW),44200020 Corporate Water Stewardship - General,GR013157.01 McDonald  Sustainability in the Supply Chain and Business Operations - Freshwater - CWS - cc495 - 15.5%,,Private Sector ,,Great Plains,0.558,True,False,
+CC495 F&F Transformation (FW),44200020 Corporate Water Stewardship - General,GR011656.01 Finish Brand - Journey of Water in RGRB,,Private Sector ,,Great Plains,0.878,False,False,
+CC496 Freshwater Science,44200041 Connected Rivers of Resilience - General,GR011424.03 GEF Sustainable Luangwa - CC496,,Resilience,Southern Africa,Southern Africa,0.798,False,False,False
+CC496 Freshwater Science,44200041 Connected Rivers of Resilience - General,GR000011.01 Uncovered Salaries and Expenses,,Resilience,Southern Africa,Southern Africa,0.59,True,False,False
+CC496 Freshwater Science,44200041 Connected Rivers of Resilience - General,GR000011.02 Restricted Coverage Identified,,Resilience,Southern Africa,Southern Africa,0.756,True,False,False
+CC496 Freshwater Science,44200020 Corporate Water Stewardship - General,GR012972.01 Walton Family Fdtn - Phase II - CC496 - 15%,,Private Sector ,,Great Plains,0.512,True,False,
+CC496 Freshwater Science,44200020 Corporate Water Stewardship - General,GR012972.02 Walton Family Fdtn - Phase II - CC496 - 0%,,Private Sector ,,Great Plains,0.428,True,False,
+CC496 Freshwater Science,44200020 Corporate Water Stewardship - General,GR000011.01 Uncovered Salaries and Expenses,,Private Sector ,,Great Plains,0.408,True,False,
+CC496 Freshwater Science,44200020 Corporate Water Stewardship - General,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Great Plains,0.45,True,False,
+CC497 Freshwater Rivers,44200041 Connected Rivers of Resilience - General,GR013239.01 TCCF - Aqua Revival in Portugal - CC497,Portugal,Resilience,,Southern Africa,0.374,True,False,
+CC497 Freshwater Rivers,44200041 Connected Rivers of Resilience - General,GR012052.01 TCCF - Recharge Pakistan - CC497,Pakistan,Resilience,,Southern Africa,0.42,True,False,
+CC497 Freshwater Rivers,44200041 Connected Rivers of Resilience - General,GR010678.02 Recharge Pakistan GCF - CC497,Pakistan,Resilience,,Southern Africa,0.436,True,False,
+CC497 Freshwater Rivers,44200020 Corporate Water Stewardship - General,GR013239.01 TCCF - Aqua Revival in Portugal - CC497,,Private Sector ,,Great Plains,0.488,True,False,
+CC498 Governance & Finance,44200070 Pantanal,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.464,True,False,
+CC498 Governance & Finance,44200060 Restoring the Rio Grande/Rio Bravo,GR012334.01 USBR - Water Management in RGRB - cc498,,Resilience,Great Plains ,Great Plains,0.936,False,False,False
+CC498 Governance & Finance,44200060 Restoring the Rio Grande/Rio Bravo,GR000011.01 Uncovered Salaries and Expenses,,Resilience,Great Plains ,Great Plains,0.974,False,False,False
+CC498 Governance & Finance,44200061 Cost Share for USBR Project,GR000011.01 Uncovered Salaries and Expenses,,Resilience,Great Plains ,Great Plains,0.738,False,False,False
+CC498 Governance & Finance,44200070 Pantanal,GR000011.02 Restricted Coverage Identified,,Resilience,,Great Plains,0.44,True,False,
+CC498 Governance & Finance,44200060 Restoring the Rio Grande/Rio Bravo,GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.976,False,False,False
+CC498 Governance & Finance,44200071 Transboundary Governance & Sustainable Finance - General,GR000011.01 Uncovered Salaries and Expenses,,Infrastructure,,Amazon,0.44,True,False,
+CC498 Governance & Finance,44200020 Corporate Water Stewardship - General,GR012334.01 USBR - Water Management in RGRB - cc498,,Private Sector ,,Great Plains,0.834,False,False,
+CC505 Oceans Core,BEF00004 Bezos  PFP  Belize,GR000011.02 Restricted Coverage Identified,Belize ,Landscape,,Amazon,0.514,True,False,
+CC505 Oceans Core,PRGMCORE Program Core,GR000001.02 Goal Core Allocation - Unrestricted,,Resilience,,Amazon,0.622,True,False,
+CC505 Oceans Core,PRGMCORE Program Core,GR000001.02 Goal Core Allocation - Unrestricted,,Landscape,,Amazon,0.674,True,False,
+CC505 Oceans Core,PRGMCORE Program Core,GR000001.02 Goal Core Allocation - Unrestricted,,Private Sector ,,Amazon,0.634,True,False,
+CC505 Oceans Core,PRGMCORE Program Core,GR000001.02 Goal Core Allocation - Unrestricted,,Finance,,Amazon,0.686,True,False,
+CC505 Oceans Core,PRGMCORE Program Core,GR000001.02 Goal Core Allocation - Unrestricted,,Other,,Amazon,0.578,True,False,
+CC505 Oceans Core,PRGMCORE Program Core,GR011517.01 RCCL Ph 2 - Philanthropy - 505,,Other,,Amazon,0.544,True,False,
+CC505 Oceans Core,9L080309 Seafood Markets,GR000011.02 Restricted Coverage Identified,,Private Sector ,,Amazon,0.38,True,False,
+CC505 Oceans Core,PRGMCORE Program Core,GR000001.02 Goal Core Allocation - Unrestricted,,Infrastructure,,Amazon,0.704,True,False,
+CC506 Oceans Science,ID020203 Coastal Ecosystem Conserved Areas,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Amazon,0.328,True,False,
+CC506 Oceans Science,51300001 Seascapes,GR000011.01 Uncovered Salaries and Expenses,,Landscape,"Eastern Pacific,SW Pacific + Indonesia, SWIO",Amazon,0.33,True,True,
+CC506 Oceans Science,51300001 Seascapes,GR000011.02 Restricted Coverage Identified,,Landscape,"Eastern Pacific,SW Pacific + Indonesia, SWIO",Eastern Pacific Seascape,0.256,True,True,
+CC506 Oceans Science,ID020203 Coastal Ecosystem Conserved Areas,GR000011.02 Restricted Coverage Identified,,Landscape,,Amazon,0.286,True,False,
+CC506 Oceans Science,ID020203 Coastal Ecosystem Conserved Areas,GR011419.01 Sall - Chilean Seascapes - 506,Chile,Landscape,Eastern Pacific,Eastern Pacific Seascape,0.974,False,False,False
+CC506 Oceans Science,51300001 Seascapes,GR011419.01 Sall - Chilean Seascapes - 506,Chile,Landscape,Eastern Pacific,Eastern Pacific Seascape,0.99,False,False,False
+CC506 Oceans Science,ID020203 Coastal Ecosystem Conserved Areas,GR012909.01 GoNaturePositive - 506,,Landscape,,Amazon,0.39,True,False,
+CC506 Oceans Science,ID020203 Coastal Ecosystem Conserved Areas,GR012362.02 Climate and Blue Foods Security CC506,,Landscape,,Amazon,0.406,True,False,
+CC506 Oceans Science,41200001 Program Operations,GR011419.01 Sall - Chilean Seascapes - 506,Chile,Landscape,Eastern Pacific,Eastern Pacific Seascape,0.984,False,False,False
+CC506 Oceans Science,ID020203 Coastal Ecosystem Conserved Areas,GR010623.02 Coral Reef Rescue,,Resilience,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.72,True,False,False
+CC507 Arctic,US204800 Arctic Policy,GR000011.01 Uncovered Salaries and Expenses,,Other,Arctic ,Arctic,0.984,False,False,False
+CC507 Arctic,9Z127800 Arctic Program Management,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Arctic ,Arctic,0.96,False,False,False
+CC507 Arctic,9Z127800 Arctic Program Management,GR011654.01 Pacific Life - Wildlife Safety in Shipping in the Bering Strait - 507,,Landscape,Arctic ,Arctic,0.96,False,False,False
+CC507 Arctic,9Z127850 Arctic Area-Based Conservation,GR011517.03 RCCL Ph 2 - Philanthropy - 507 - 15.5%,,Landscape,Arctic ,Arctic,0.988,False,False,False
+CC507 Arctic,9Z127840 Polar Bear Project,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Arctic ,Arctic,0.986,False,False,False
+CC507 Arctic,9Z127800 Arctic Program Management,GR000001.01 Program Unrestricted - cc000,,Other,Arctic ,Arctic,0.888,False,False,False
+CC507 Arctic,9Z127808 Arctic shipping,GR000920.01 Arctic Bucket - 507 - 15.5%,,Other,Arctic ,Arctic,0.994,False,False,False
+CC508 Ocean Futures,50800001 Ocean Futures,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.498,True,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.46,True,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR012856.01 Grantham Environ. Trust - Protecting Ocean Fisheries - CC508,,Resilience,,Amazon,0.478,True,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR012362.01 Climate and Blue Foods Security CC508,,Resilience,,Amazon,0.618,True,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR003939.01 RCCL ROYALTIES - 505,,Resilience,,Amazon,0.59,True,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR011810.01 Walton SIMP/IUU Renewal III CC508,,Resilience,,Amazon,0.588,True,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR011505.02 RCCL - Ph2 - Transformation (Earthrise) - 508,,Resilience,,Amazon,0.588,True,False,
+CC508 Ocean Futures,9Z127450 Sustainable Fisheries General,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.308,True,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR011632.01 Bloomberg O5 Fiji Fisheries - 509,,Resilience,,SW Pacific + Indonesia,0.872,False,False,
+CC508 Ocean Futures,50800001 Ocean Futures,GR012840.01 Weil Legal Innovators Program - CC508,,Resilience,,Amazon,0.574,True,False,
+CC508 Ocean Futures,50900000 IUU,GR011810.01 Walton SIMP/IUU Renewal III CC508,,Other,,Amazon,0.56,True,False,
+CC509 Ocean Policy,50900000 IUU,GR011874.01 UNFAO -- GCP- Prototype Finance Platform,,Other,,Amazon,0.518,True,False,
+CC510 Mangroves,51000000 Mangroves General,GR012843.01 Crankstart Foundation - cc510,,Resilience,,Amazon,0.502,True,False,
+CC510 Mangroves,51000000 Mangroves General,GR011967.01 NbS Origination Platform - Oceans Blue Finance - 510,,Resilience,,Amazon,0.434,True,False,
+CC510 Mangroves,51000000 Mangroves General,GR011974.01 Curt Bergfors Foundation - Food Planet Prize,,Resilience,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.672,True,False,False
+CC510 Mangroves,51000000 Mangroves General,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.39,True,False,
+CC510 Mangroves,51000000 Mangroves General,GR012559.01 Moodys Emerging Markets - Oceans 510,,Resilience,,Amazon,0.438,True,False,
+CC510 Mangroves,51000000 Mangroves General,GR000011.02 Restricted Coverage Identified,,Resilience,,Amazon,0.332,True,False,
+CC510 Mangroves,BEF00015 Bezos  Mangroves  Other,GR010442.01 Bezos Mangroves - 510,,Resilience,"Amazon, SWIO",Amazon,0.488,True,True,
+CC510 Mangroves,BEF00014 Bezos  Mangroves  Comms,GR010442.01 Bezos Mangroves - 510,,Resilience,"Amazon, SWIO",Amazon,0.598,True,True,
+CC510 Mangroves,BEF00015 Bezos  Mangroves  Other,GR012692.01 Salesforce c/o Plant for the Planet  Madagascar Mangrove Restoration Project - cc510,,Resilience,"Amazon, SWIO",Southwest Indian Ocean,0.846,False,True,
+CC510 Mangroves,51000000 Mangroves General,GR012692.01 Salesforce c/o Plant for the Planet  Madagascar Mangrove Restoration Project - cc510,Madagascar,Resilience,SWIO,Southwest Indian Ocean,0.848,False,False,False
+CC510 Mangroves,9L080309 Seafood Markets,GR011967.02 Nbs Origination Platform - Ocean Blue Finance - 485,,Resilience,,Amazon,0.404,True,False,
+CC511 Global Priority Species & Other Landscapes,9F071771 African Elephants - Congo,GR011771.07 Bequest - African Elephants and their Habitats - Forest Elephants - cc511 - 15.5%,,Landscape,Congo,Congo Basin,0.828,False,False,False
+CC511 Global Priority Species & Other Landscapes,9Z127840 Polar Bear Project,GR012165.01 Polar Bear Co-management and Science Alaska - WWF GE - cc511 - 12.50%,,Landscape,Arctic ,Arctic,0.874,False,False,False
+CC511 Global Priority Species & Other Landscapes,9Z127840 Polar Bear Project,GR000334.01 Polar Bear Bucket - 511,,Landscape,Arctic ,Arctic,0.856,False,False,False
+CC511 Global Priority Species & Other Landscapes,9Z127850 Arctic Area-Based Conservation,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Arctic ,Arctic,0.798,False,False,False
+CC511 Global Priority Species & Other Landscapes,9F074200 African Great Apes,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Arctic,0.394,True,False,
+CC511 Global Priority Species & Other Landscapes,9F071771 African Elephants - Congo,GR011771.01 Protection of wild African elephants and their habitats - cc511 - 15.5%,,Landscape,Congo,Congo Basin,0.778,False,False,False
+CC511 Global Priority Species & Other Landscapes,CN085401 Giant Pandas,GR000323.01 Protect Giant Pandas Bucket - 511,China,Landscape,,Arctic,0.442,True,False,
+CC511 Global Priority Species & Other Landscapes,9Z127840 Polar Bear Project,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Arctic ,Arctic,0.884,False,False,False
+CC511 Global Priority Species & Other Landscapes,9Z127840 Polar Bear Project,GR000011.02 Restricted Coverage Identified,,Landscape,Arctic ,Arctic,0.664,False,False,False
+CC511 Global Priority Species & Other Landscapes,9Z127840 Polar Bear Project,GR000310.01 Help Rescue Species in Peril - 511,,Landscape,Arctic ,Arctic,0.586,False,False,False
+CC511 Global Priority Species & Other Landscapes,9F071771 African Elephants - Congo,GR000332.06 Protect African Elephants Bucket - 511,,Landscape,Congo,Congo Basin,0.602,False,False,False
+CC511 Global Priority Species & Other Landscapes,9F074200 African Great Apes,GR012911.01 ETIC-NPNP Renewal (Phase IV),,Landscape,,Arctic,0.286,True,False,
+CC511 Global Priority Species & Other Landscapes,9F074263 Asian Great Apes,GR000011.02 Restricted Coverage Identified,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.734,True,False,False
+CC511 Global Priority Species & Other Landscapes,9F071501 African Rhinos,GR000321.05 Protect Rhinos - 511,,Landscape,Southern Africa,Southern Africa,0.634,True,False,False
+CC511 Global Priority Species & Other Landscapes,9F071771 African Elephants - Congo,GR000336.01 Protect Elephants - 511,,Landscape,Congo,Congo Basin,0.728,False,False,False
+CC511 Global Priority Species & Other Landscapes,MG008800 Madagascar CBC,GR000625.01 Madagascar Lemurs - 511,Madagascar ,Landscape,,Southwest Indian Ocean,0.82,False,False,
+CC511 Global Priority Species & Other Landscapes,9Z125600 Wildlife Trade & Wildlife Law,GR012785.01 Countering Wildlife Trafficking and Other Natural Resource Crime in Pakistan-HQ-CC511,,Resilience,Eastern Himalaya,Eastern Himalayas,0.672,True,False,False
+CC511 Global Priority Species & Other Landscapes,9F074263 Asian Great Apes,GR010335.01 Apes in Kalimantan - 511,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.85,False,False,False
+CC511 Global Priority Species & Other Landscapes,45000000 Species General,GR000336.01 Protect Elephants - 511,,Landscape,,Arctic,0.33,True,False,
+CC511 Global Priority Species & Other Landscapes,45000000 Species General,GR000011.01 Uncovered Salaries and Expenses,,Landscape,,Arctic,0.508,True,False,
+CC511 Global Priority Species & Other Landscapes,9Z127250 Cetacean Bycatch,GR003578.02 Pacific Life - Curb Cetacean Bycatch - 511,,Private Sector ,,Arctic,0.338,True,False,
+CC511 Global Priority Species & Other Landscapes,9S073268 Sumatran Rhinos,GR000321.05 Protect Rhinos - 511,,Landscape,,SW Pacific + Indonesia,0.674,False,False,
+CC511 Global Priority Species & Other Landscapes,45000000 Species General,GR000310.01 Help Rescue Species in Peril - 511,,Landscape,,SW Pacific + Indonesia,0.384,True,False,
+CC511 Global Priority Species & Other Landscapes,45000000 Species General,GR000011.02 Restricted Coverage Identified,,Landscape,,Arctic,0.318,True,False,
+CC513 Seascapes,51300001 Seascapes,GR012356.02 Mott DREEM Hub - 513 - 2.5%,Tanzania,Landscape,,Amazon,0.534,True,False,
+CC513 Seascapes,51300001 Seascapes,GR012638.01 Supporting community leadership in Indonesian MPCAs - cc513,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.84,False,False,False
+CC513 Seascapes,51300001 Seascapes,GR000011.01 Uncovered Salaries and Expenses,,Landscape,"Eastern Pacific,SW Pacific + Indonesia, SWIO",Amazon,0.436,True,True,
+CC513 Seascapes,51300001 Seascapes,GR000011.02 Restricted Coverage Identified,,Landscape,"Eastern Pacific,SW Pacific + Indonesia, SWIO",Amazon,0.358,True,True,
+CC513 Seascapes,51300001 Seascapes,GR012356.01 Mott DREEM Hub - 513,Tanzania,Landscape,,Amazon,0.536,True,False,
+CC514 Green Economy & Infrastructure,41000080 GRID Cost Share,GR000011.01 Uncovered Salaries and Expenses,,Infrastructure,Amazon,Amazon,0.898,True,False,False
+CC514 Green Economy & Infrastructure,41000070 NatCap and Infrastrucuture,GR000011.02 Restricted Coverage Identified,,Infrastructure,Amazon,Amazon,0.872,True,False,False
+CC514 Green Economy & Infrastructure,41000070 NatCap and Infrastrucuture,GR000420.03 General Forest Bucket - 514 (inactive),,Infrastructure,Amazon,Amazon,0.956,True,False,False
+CC514 Green Economy & Infrastructure,41000070 NatCap and Infrastrucuture,GR004892.01 Alexander Fund - 410,,Infrastructure,Amazon,Amazon,0.982,True,False,False
+CC514 Green Economy & Infrastructure,41000070 NatCap and Infrastrucuture,GR013084.01 Moore - Dissemination of Green Road Infrastructure(GRI) - 436 (12.5%),,Infrastructure,Amazon,Amazon,0.962,True,False,False
+CC514 Green Economy & Infrastructure,41000070 NatCap and Infrastrucuture,GR012287.01 Charles Stewart Mott Foundation - Expanding Renewable Energy in the Amazon (non-Brazil) 2024-2025 - 514,,Infrastructure,Amazon,Amazon,0.978,False,False,False
+CC514 Green Economy & Infrastructure,41000070 NatCap and Infrastrucuture,GR000011.01 Uncovered Salaries and Expenses,,Infrastructure,,Amazon,0.85,True,False,
+CC515 Congo Basin,9F070800 Western Congo Basin Moist Forest Ecoregion,GR010617.02 CBSL Cameroon,,Landscape,Congo,Congo Basin,0.978,False,False,False
+CC515 Congo Basin,CD000301 CBFP: Salonga,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Congo,Congo Basin,0.992,False,False,False
+CC515 Congo Basin,9F070800 Western Congo Basin Moist Forest Ecoregion,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Congo,Congo Basin,0.984,False,False,False
+CC515 Congo Basin,CD000301 CBFP: Salonga,GR000093.01 Unrestricted Carryforward,,Landscape,Congo,Congo Basin,0.996,False,False,False
+CC515 Congo Basin,9F070800 Western Congo Basin Moist Forest Ecoregion,GR000420.01 General Forest Bucket - 416,,Landscape,Congo,Congo Basin,0.984,False,False,False
+CC515 Congo Basin,9F070800 Western Congo Basin Moist Forest Ecoregion,GR012826.01 Advancing High-integrity Landscape Approaches and Strengthening Protected Areas in the Brazilian Amazon - WMT - cc41,,Landscape,Congo,Congo Basin,0.938,False,False,False
+CC515 Congo Basin,9F070800 Western Congo Basin Moist Forest Ecoregion,GR007700.11 GEF Fee CC - HQ cc515,,Landscape,Congo,Congo Basin,0.99,False,False,False
+CC515 Congo Basin,CD000301 CBFP: Salonga,GR010444.07 Bezos Earth Fund - Coordination - Congo - 515,,Landscape,Congo,Congo Basin,0.996,False,False,False
+CC515 Congo Basin,CF000500 Dzanga-Sangha,GR000011.02 Restricted Coverage Identified,,Landscape,Congo,Congo Basin,0.998,False,False,False
+CC515 Congo Basin,CF000500 Dzanga-Sangha,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Congo,Congo Basin,0.992,False,False,False
+CC515 Congo Basin,CF000500 Dzanga-Sangha,GR000011.03 Institutional Commitments,,Landscape,Congo,Congo Basin,0.996,False,False,False
+CC532 KAZA & Southern Africa,9F071772 African Elephants,GR011771.13 Bequest - African Elephants and their Habitats - General - 532 - 15.5%,,Landscape,Southern Africa,Southern Africa,0.994,False,False,False
+CC532 KAZA & Southern Africa,9F071701 KAZA Elephants and Other Wildlife,GR011771.02 Protection of wild African elephants and their habitats - cc532 - 15.5%,,Landscape,Southern Africa,Southern Africa,0.99,False,False,False
+CC532 KAZA & Southern Africa,9F071701 KAZA Elephants and Other Wildlife,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Southern Africa,Southern Africa,0.972,True,False,False
+CC532 KAZA & Southern Africa,9F071772 African Elephants,GR012844.01 African Elephants - O. Nash - cc532 - 15.5%,,Landscape,Southern Africa,Southern Africa,0.992,False,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR012844.01 African Elephants - O. Nash - cc532 - 15.5%,,Landscape,Southern Africa,Southern Africa,0.994,False,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR011771.08 Bequest - African elephants and their Habitats - Connectivity - cc532 - 15.5%,,Landscape,Southern Africa,Southern Africa,0.994,False,False,False
+CC532 KAZA & Southern Africa,9Z210407 e-DNA,GR000342.03 KAZA Elephant Conservation Strategy - Bishop -- 532 -15.5%,,Landscape,Southern Africa,Southern Africa,0.99,True,False,False
+CC532 KAZA & Southern Africa,9F071701 KAZA Elephants and Other Wildlife,GR000342.01 KAZA Elephant Conservation Strategy - 532,,Landscape,Southern Africa,Southern Africa,0.992,True,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Southern Africa,Southern Africa,0.99,True,False,False
+CC532 KAZA & Southern Africa,9F071501 African Rhinos,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Southern Africa,Southern Africa,0.982,True,False,False
+CC532 KAZA & Southern Africa,9F071701 KAZA Elephants and Other Wildlife,GR000336.02 Protect Elephants Bucket - 532,,Landscape,Southern Africa,Southern Africa,0.998,True,False,False
+CC532 KAZA & Southern Africa,9F071501 African Rhinos,GR000302.07 Protect African Rhinos - 532 - 15.5%,,Landscape,Southern Africa,Southern Africa,0.99,True,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR000011.02 Restricted Coverage Identified,,Landscape,Southern Africa,Southern Africa,0.998,True,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR011771.13 Bequest - African Elephants and their Habitats - General - 532 - 15.5%,,Landscape,Southern Africa,Southern Africa,1.0,False,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR000011.03 Institutional Commitments,,Landscape,Southern Africa,Southern Africa,0.994,True,False,False
+CC532 KAZA & Southern Africa,9F071701 KAZA Elephants and Other Wildlife,GR000011.02 Restricted Coverage Identified,,Landscape,Southern Africa,Southern Africa,0.984,True,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR000336.02 Protect Elephants Bucket - 532,,Landscape,Southern Africa,Southern Africa,0.996,True,False,False
+CC532 KAZA & Southern Africa,9Z071705 KAZA Carnivores,GR004343.02 Protecting Large Carnivores in KAZA - HQ - cc532,,Landscape,Southern Africa,Southern Africa,0.97,True,False,False
+CC532 KAZA & Southern Africa,9F071701 KAZA Elephants and Other Wildlife,GR000332.05 Protect African Elephants Bucket - 532,,Landscape,Southern Africa,Southern Africa,0.998,False,False,False
+CC532 KAZA & Southern Africa,9F071772 African Elephants,GR000332.05 Protect African Elephants Bucket - 532,,Landscape,Southern Africa,Southern Africa,0.996,False,False,False
+CC532 KAZA & Southern Africa,9F071705 Aerial Survey  KAZA Elephants,GR000342.01 KAZA Elephant Conservation Strategy - 532,,Landscape,Southern Africa,Southern Africa,0.994,True,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR000332.05 Protect African Elephants Bucket - 532,,Landscape,Southern Africa,Southern Africa,0.998,False,False,False
+CC532 KAZA & Southern Africa,9F071706 KAZA Wildlife Connectivity Science,GR000342.01 KAZA Elephant Conservation Strategy - 532,,Landscape,Southern Africa,Southern Africa,0.994,True,False,False
+CC532 KAZA & Southern Africa,9F071704 KAZA Other,GR000342.03 KAZA Elephant Conservation Strategy - Bishop -- 532 -15.5%,,Landscape,Southern Africa,Southern Africa,0.982,True,False,False
+CC532 KAZA & Southern Africa,9F071707 KAZA Wildlife Connectivity Science  Laptop,GR000342.01 KAZA Elephant Conservation Strategy - 532,,Landscape,Southern Africa,Southern Africa,0.99,True,False,False
+CC532 KAZA & Southern Africa,9Z125600 Wildlife Trade & Wildlife Law,GR000011.01 Uncovered Salaries and Expenses,,Resilience,Southern Africa,Southern Africa,0.946,True,False,False
+CC532 KAZA & Southern Africa,9Z125600 Wildlife Trade & Wildlife Law,GR010499.05 INL CWT in Namibia and KAZA - 532 - 13.12%,,Resilience,Southern Africa,Southern Africa,0.986,False,False,False
+CC532 KAZA & Southern Africa,9Z210407 e-DNA,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Southern Africa,Southern Africa,0.968,True,False,False
+CC532 KAZA & Southern Africa,9F204201 Wildlife Communications,GR011771.13 Bequest - African Elephants and their Habitats - General - 532 - 15.5%,,Landscape,,Southern Africa,1.0,False,False,
+CC532 KAZA & Southern Africa,9F204203 Wildlife Communications - KAZA,GR000336.02 Protect Elephants Bucket - 532,,Landscape,,Southern Africa,0.984,True,False,
+CC532 KAZA & Southern Africa,9F204206 Wildlife Communications - Wildlife Tech,GR011771.13 Bequest - African Elephants and their Habitats - General - 532 - 15.5%,,Resilience,,Southern Africa,0.996,False,False,
+CC532 KAZA & Southern Africa,9Z210407 e-DNA,GR012413.02 Peach - Wildlife Habitat and preservation - 532 - 0%,,Landscape,Southern Africa,Southern Africa,0.994,True,False,False
+CC533 Namibia,Program (Uncategorized),GR000342.04 KAZA Elephant Conservation Strategy - Khaudum water points - 533 - 15.5%,,Landscape,Southern Africa,Southern Africa,0.954,False,False,False
+CC533 Namibia,9F071701 KAZA Elephants and Other Wildlife,GR000342.02 KAZA Elephant Conservation Strategy - 533,Namibia,Landscape,Southern Africa,Southern Africa,0.908,False,False,False
+CC533 Namibia,NA000100 Namibia CBNRM,GR000302.08 Black Rhino Campaign - African Rhino Bucket - 533 - 15.5%,,,,Southern Africa,0.892,False,False,
+"CC534 Program Operations: Marine, Policy, Food",41200001 Program Operations,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.5,True,False,
+"CC534 Program Operations: Marine, Policy, Food",BEF00009 Bezos  Coordination,GR010444.02 Bezos Earth Fund Program Ops - 534,,Other,,Amazon,0.618,True,False,
+"CC534 Program Operations: Marine, Policy, Food",41200001 Program Operations,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.426,True,False,
+"CC536 Program Operations: Forest, Freshwater and Wildlife",53600000 ESP Program Administration,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.6,True,False,
+"CC536 Program Operations: Forest, Freshwater and Wildlife",41000080 GRID Cost Share,GR000011.01 Uncovered Salaries and Expenses,,Other,,Amazon,0.496,True,False,
+"CC536 Program Operations: Forest, Freshwater and Wildlife",41000070 NatCap and Infrastrucuture,GR000011.02 Restricted Coverage Identified,,Other,,Amazon,0.482,True,False,
+CC537 PANORAMA Management,WPAN0080 Workday annual software fees,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.456,True,False,
+CC537 PANORAMA Management,APAN0080 Adaptive annual software fees,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.456,True,False,
+CC537 PANORAMA Management,SPAN0080 Smart Simple annual software fees,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.456,True,False,
+CC538 Outgoing Agreements Team,40000000 Program Management - General,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.492,True,False,
+CC558 Wildlife & Climate Resilience,9F075200 Climate Crowd,GR010994.03 Climate Crowd Multi-Donor - 558,,Resilience,,Amazon,0.658,True,False,
+CC558 Wildlife & Climate Resilience,9F075100 Wildlife Adaptation Innovation Fund,GR000406.11 Wildlife Adaptation Innovation Fund- 558,,Resilience,,Amazon,0.686,True,False,
+CC558 Wildlife & Climate Resilience,9F075000 Wildlife & Climate,GR000336.12 Protect Elephants - Climate Adaptation & Resilience -558 - 15.5%,,Resilience,,Amazon,0.452,True,False,
+CC558 Wildlife & Climate Resilience,9F075100 Wildlife Adaptation Innovation Fund,GR013341.01 DAF - Climate Crowd and Wildlife Adaptation Bucket - 558,,Resilience,,Amazon,0.642,True,False,
+CC558 Wildlife & Climate Resilience,9F075200 Climate Crowd,GR000011.01 Uncovered Salaries and Expenses,,Resilience,,Amazon,0.484,True,False,
+CC558 Wildlife & Climate Resilience,9F075000 Wildlife & Climate,GR012413.03 Peach - Wildlife Habitat & Preservation - 558 - 0%,,Resilience,,Amazon,0.658,True,False,
+CC558 Wildlife & Climate Resilience,9F072003 African NBT Covid-19 Platform Monitoring and Evaluation,GR010484.01 Collaborative platform for African nature-based tourism - 558,,Other,,Amazon,0.484,True,False,
+CC558 Wildlife & Climate Resilience,9F072001 African NBT Covid-19 Platform Data Clearinghouse,GR010484.01 Collaborative platform for African nature-based tourism - 558,,Other,,Amazon,0.466,True,False,
+CC558 Wildlife & Climate Resilience,9F072000 African NBT Covid-19 Platform,GR010484.01 Collaborative platform for African nature-based tourism - 558,,Other,,Amazon,0.466,True,False,
+CC580 EH Bhutan Program Office,BT205500 Advancing OECM Implementation in Bhutan,GR011768.08 WWF Bhutan OECM Capacity Building - 580,,,,Eastern Himalayas,0.838,False,False,
+CC581 EH Nepal Program Office,NP214700 Promote Nature Based Solutions (NBSs) for building resilience of vulnerable communities and ecosystems,GR010621.01 Managing Watersheds for Enhanced Resilience of Communities to Climate Change,,,,Eastern Himalayas,0.81,False,False,
+CC581 EH Nepal Program Office,NP215000 Build capacity and facilitate international discourse and Nepal's committement on climate and nature,GR011163.02 Nepal CBIT,,,,Eastern Himalayas,0.814,False,False,
+CC581 EH Nepal Program Office,NP211900 Wildlife Habitat Management and Corridor Use,GR007700.12 WWF Nepal GEF Agency CC581,,,,Eastern Himalayas,0.946,False,False,
+CC582 PAPUA,ID019300 Forest Conservation in Papua-Indonesia,GR012072.01 Conserving Papua Forest -WWF-US - MACP 582 - 15%,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.94,False,False,False
+CC594 Northern Great Plains,US088501 NGP Assets - 2014 Toyota RAV4,GR000925.02 Northern Great Plains Bucket - 594 15.5%,,Other,Great Plains ,Great Plains,0.986,False,False,False
+CC594 Northern Great Plains,US088502 NGP Assets - 2015 Subaru Crosstrek,GR000925.02 Northern Great Plains Bucket - 594 15.5%,,Other,Great Plains ,Great Plains,0.98,False,False,False
+CC594 Northern Great Plains,US088500 NGP Assets - 2016 Mazda CX-5,GR000925.02 Northern Great Plains Bucket - 594 15.5%,,Other,Great Plains ,Great Plains,0.996,False,False,False
+CC595 GP - Science,US595001 GP - Science General,"GR012292.04 Walmart - LAMP 2, NGP - 595 15%",,Landscape,Great Plains ,Great Plains,0.978,False,False,False
+CC595 GP - Science,US595001 GP - Science General,GR012669.02 AMB - RSVP Project - 595 15.5%,,Resilience,Great Plains ,Great Plains,0.992,False,False,False
+CC595 GP - Science,US595001 GP - Science General,GR000011.02 Restricted Coverage Identified,,Landscape,Great Plains ,Great Plains,0.894,True,False,False
+CC595 GP - Science,"US088323 Science (NFWF, Plowprint 2023 - Match)",GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.938,False,False,False
+CC595 GP - Science,US595001 GP - Science General,"GR011908.08 NFWF, Plowprint 2023 - 595 (Bezos)",,Resilience,Great Plains ,Great Plains,0.976,False,False,False
+CC595 GP - Science,US595001 GP - Science General,"GR012752.06 MACP - NGP Grassland Communities, Phase 5 - 595 15%",,Resilience,Great Plains ,Great Plains,0.998,False,False,False
+CC595 GP - Science,US595001 GP - Science General,GR013277.03 Mars - GP Grasslands - 595 15.5%,,Resilience,Great Plains ,Great Plains,0.996,False,False,False
+CC595 GP - Science,US595001 GP - Science General,GR010533.03 Toyota - Wolakota General - 595 15.5%,,Landscape,Great Plains ,Great Plains,0.99,False,False,False
+CC595 GP - Science,US595001 GP - Science General,"GR010916.02 NSF TCUP, Aaniiih Nakoda College - 595",,Landscape,Great Plains ,Great Plains,0.954,True,False,False
+CC595 GP - Science,US595001 GP - Science General,"GR012441.04 Swedish, Bison Restoration - 595 15.5%",,Landscape,Great Plains ,Great Plains,0.984,False,False,False
+CC596 GP - Wildlife Initiative,US596001 GP - Wildlife General,GR000011.02 Restricted Coverage Identified,,Landscape,Great Plains ,Great Plains,0.974,True,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,"GR012441.02 Swedish, Bison Restoration - 596 15.5%",,Landscape,Great Plains ,Great Plains,1.0,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,"GR012752.02 MACP - NGP Grassland Communities, Phase 5 - 596 15%",,Landscape,Great Plains ,Great Plains,1.0,False,False,False
+CC596 GP - Wildlife Initiative,US596200 GP - Restoring Black Footed Ferrets,GR000011.02 Restricted Coverage Identified,,Landscape,Great Plains ,Great Plains,0.97,True,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,"GR012752.04 MACP - NGP Grassland Communities, Phase 5 - 596 10% (Grants Only)",,Landscape,Great Plains ,Great Plains,0.984,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR004358.13 HD - Sall - Native Nations - DPR - 596,,Landscape,Great Plains ,Great Plains,0.904,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR000170.05 Bison Bucket - 596 15.5%,,Landscape,Great Plains ,Great Plains,0.998,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR012352.01 2024 FWS Fort Belknap Buffalo Restoration and Grazing System - 596,,Landscape,Great Plains ,Great Plains,0.98,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR011641.02 Stronghold Buffalo Range - 596 15.5%,,Landscape,Great Plains ,Great Plains,0.998,False,False,False
+CC596 GP - Wildlife Initiative,US596200 GP - Restoring Black Footed Ferrets,GR012376.01 2024 FWS BFF Recovery Challenge - 596,,Landscape,Great Plains ,Great Plains,0.972,True,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR013276.01 Mars - GP Wildlife - 596 15.5%,,Landscape,Great Plains ,Great Plains,0.998,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR012102.02 Binnacle - Stronghold Bison Reserve - 596 15.5%,,Landscape,Great Plains ,Great Plains,0.996,False,False,False
+CC596 GP - Wildlife Initiative,US596001 GP - Wildlife General,"GR010825.02 Bush - Pine Ridge, Phase 2 - 596 15.5%",,Landscape,Great Plains ,Great Plains,0.992,False,False,False
+CC596 GP - Wildlife Initiative,US596200 GP - Restoring Black Footed Ferrets,"GR012873.01 Frankenberg, Ferret Recovery - 596 15.5%",,Landscape,Great Plains ,Great Plains,0.986,True,False,False
+CC596 GP - Wildlife Initiative,US596200 GP - Restoring Black Footed Ferrets,GR004307.02 Jalkut - One MoreThing - 596 15.5%,,Landscape,Great Plains ,Great Plains,0.99,True,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR012876.01 Turner - Bison Restoration 2024 - 596 15.5%,,Landscape,Great Plains ,Great Plains,1.0,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,"GR010916.03 NSF TCUP, Aaniiih Nakoda College - 596",,Landscape,Great Plains ,Great Plains,0.988,False,False,False
+CC596 GP - Wildlife Initiative,US596200 GP - Restoring Black Footed Ferrets,"GR010916.03 NSF TCUP, Aaniiih Nakoda College - 596",,Landscape,Great Plains ,Great Plains,0.962,True,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR012783.01 Tribal Buffalo Lifeways Bucket - 596 15.5%,,Landscape,Great Plains ,Great Plains,1.0,False,False,False
+CC596 GP - Wildlife Initiative,US596100 GP - Bison Restoration with Native Nations,GR000011.02 Restricted Coverage Identified,,Landscape,Great Plains ,Great Plains,0.994,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597100 GP - SRI, RSVP",GR012669.01 AMB - RSVP Project - 597 15.5%,,Resilience,Great Plains ,Great Plains,0.998,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597103 GP - SRI, RSVP - Ranch Infrastructure Fund",GR010539.02 Rosen - Ranching in NGP - 597 15.5%,,Resilience,Great Plains ,Great Plains,0.988,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597103 GP - SRI, RSVP - Ranch Infrastructure Fund","GR012857.01 USDA - RCPP FA, RSVP 2022 - 597",,Resilience,Great Plains ,Great Plains,0.994,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597100 GP - SRI, RSVP","GR012619.01 USDA/NRCS - GLCI, RSVP 2024 - 597 10%",,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597100 GP - SRI, RSVP","GR012752.03 MACP - NGP Grassland Communities, Phase 5 - 597 15%",,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597103 GP - SRI, RSVP - Ranch Infrastructure Fund",GR012669.01 AMB - RSVP Project - 597 15.5%,,Resilience,Great Plains ,Great Plains,0.998,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597100 GP - SRI, RSVP",GR013277.02 Mars - GP Grasslands - 597 15.5%,,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597100 GP - SRI, RSVP","GR012752.05 MACP - NGP Grassland Communities, Phase 5 - 597 10% (Grants Only)",,Resilience,Great Plains ,Great Plains,0.998,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597300 GP - SRI, Mesic Restoration",GR013277.02 Mars - GP Grasslands - 597 15.5%,,Resilience,Great Plains ,Great Plains,0.998,False,False,False
+CC597 GP - Sustainable Ranching Initiative,US597001 GP - Sustainable Ranching Initiative General,GR013277.02 Mars - GP Grasslands - 597 15.5%,,Resilience,Great Plains ,Great Plains,0.998,False,False,False
+CC597 GP - Sustainable Ranching Initiative,US597001 GP - Sustainable Ranching Initiative General,GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.984,True,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597100 GP - SRI, RSVP","GR011708.02 USDA/NRCS - GLCI, NGP RSVP Project - 597 10%",,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,US597001 GP - Sustainable Ranching Initiative General,"GR012752.03 MACP - NGP Grassland Communities, Phase 5 - 597 15%",,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597300 GP - SRI, Mesic Restoration",GR012669.01 AMB - RSVP Project - 597 15.5%,,Resilience,Great Plains ,Great Plains,0.992,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597107 GP - SRI, RSVP - USDA, RCPP Partner TA_I RTIP-002 Planning","GR011325.01 USDA - RCPP TA, RSVP 2022 - 597",,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597100 GP - SRI, RSVP",GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.978,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597300 GP - SRI, Mesic Restoration",GR013101.01 NWF - Mesic Restoration - 597,,Resilience,Great Plains ,Great Plains,0.982,True,False,False
+CC597 GP - Sustainable Ranching Initiative,US597001 GP - Sustainable Ranching Initiative General,GR012669.01 AMB - RSVP Project - 597 15.5%,,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597101 GP - SRI, RSVP - USDA, RCPP Partner TA_E RTEP-001 Project Management","GR011325.01 USDA - RCPP TA, RSVP 2022 - 597",,Resilience,Great Plains ,Great Plains,0.996,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597102 GP - SRI, RSVP - USDA, RCPP Partner TA_E RTEP-003 Outreach and Education","GR011325.01 USDA - RCPP TA, RSVP 2022 - 597",,Resilience,Great Plains ,Great Plains,0.994,False,False,False
+CC597 GP - Sustainable Ranching Initiative,US597001 GP - Sustainable Ranching Initiative General,"GR012619.01 USDA/NRCS - GLCI, RSVP 2024 - 597 10%",,Resilience,Great Plains ,Great Plains,0.998,False,False,False
+CC597 GP - Sustainable Ranching Initiative,US597001 GP - Sustainable Ranching Initiative General,"GR011708.02 USDA/NRCS - GLCI, NGP RSVP Project - 597 10%",,Resilience,Great Plains ,Great Plains,1.0,False,False,False
+CC597 GP - Sustainable Ranching Initiative,"US597104 GP - SRI, RSVP - USDA, RCPP Partner TA_E RTEP-002 Communication and Coordination","GR011325.01 USDA - RCPP TA, RSVP 2022 - 597",,Resilience,Great Plains ,Great Plains,0.99,False,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,"GR012752.01 MACP - NGP Grassland Communities, Phase 5 - 598 15%",,Resilience,Great Plains ,Great Plains,0.992,False,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,"GR012619.02 USDA/NRCS - GLCI, RSVP 2024 - 598 10%",,Resilience,Great Plains ,Great Plains,0.994,False,False,False
+CC598 GP - Crosscutting,US598001 GP - Crosscutting General,GR000011.02 Restricted Coverage Identified,,Core,Great Plains ,Great Plains,0.964,True,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR000011.02 Restricted Coverage Identified,,Core,Great Plains ,Great Plains,0.998,True,False,False
+CC598 GP - Crosscutting,US598001 GP - Crosscutting General,GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.97,True,False,False
+CC598 GP - Crosscutting,US598001 GP - Crosscutting General,GR000011.02 Restricted Coverage Identified,,Landscape,Great Plains ,Great Plains,0.982,True,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR000001.01 Program Unrestricted - cc000,,Other,Great Plains ,Great Plains,0.926,True,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.992,True,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR000011.02 Restricted Coverage Identified,,Landscape,Great Plains ,Great Plains,0.99,True,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR013277.01 Mars - GP Grasslands - 598 15.5%,,Resilience,Great Plains ,Great Plains,0.996,False,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR012669.03 AMB - RSVP Project - 598 15.5%,,Resilience,Great Plains ,Great Plains,0.996,False,False,False
+CC598 GP - Crosscutting,US598001 GP - Crosscutting General,GR000011.02 Restricted Coverage Identified,,Other,Great Plains ,Great Plains,0.974,True,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR000011.02 Restricted Coverage Identified,,Other,Great Plains ,Great Plains,0.994,True,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,GR013101.02 NWF - Mesic Restoration - 598,,Resilience,Great Plains ,Great Plains,0.98,True,False,False
+CC598 GP - Crosscutting,"US088326 Program Operations (NFWF, RSVP 2023 - Match)",GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.982,False,False,False
+CC598 GP - Crosscutting,"US088324 Program Operations (NFWF, Plowprint 2023 - Match)",GR000011.02 Restricted Coverage Identified,,Resilience,Great Plains ,Great Plains,0.966,False,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,"GR011908.09 NFWF, Plowprint 2023 - 598 (CFDA-10.683)",,Resilience,Great Plains ,Great Plains,0.99,False,False,False
+CC598 GP - Crosscutting,US598002 GP - Crosscutting Ops,"GR011908.10 NFWF, Plowprint 2023 - 598 (Bezos)",,Resilience,Great Plains ,Great Plains,0.98,False,False,False
+CC599 Native Nations Conservation and Food Systems,US599100 Tribal Buffalo Lifeway Collaboration (TBLC),"GR012441.03 Swedish, Bison Restoration - 599 15.5%",,Resilience,Great Plains ,Great Plains,0.89,False,False,False
+CC599 Native Nations Conservation and Food Systems,US599001 Native Nations Program Management,GR000011.01 Uncovered Salaries and Expenses,,Resilience,Great Plains ,Great Plains,0.836,True,False,False
+CC599 Native Nations Conservation and Food Systems,US599001 Native Nations Program Management,GR013276.02 Mars - GP Wildlife - 599 15.5%,,Resilience,Great Plains ,Great Plains,0.95,True,False,False
+CC599 Native Nations Conservation and Food Systems,US599001 Native Nations Program Management,GR012783.04 Tribal Buffalo Lifeways Bucket - 15.5% - 599,,Resilience,Great Plains ,Great Plains,0.916,False,False,False
+CC599 Native Nations Conservation and Food Systems,US599001 Native Nations Program Management,GR004358.10 HD - Sall - Native Nations cc599,,Resilience,Great Plains ,Great Plains,0.66,True,False,False
+CC599 Native Nations Conservation and Food Systems,US599001 Native Nations Program Management,"GR012441.03 Swedish, Bison Restoration - 599 15.5%",,Resilience,Great Plains ,Great Plains,0.926,False,False,False
+CC607 LAC Valdivian Forest Ecoregion,9L080308 Chile Fisheries Project,GR011419.02 Sall - Chilean Seascapes - CL 607,Chile,Landscape,Eastern Pacific,Eastern Pacific Seascape,0.976,False,False,False
+CC607 LAC Valdivian Forest Ecoregion,9L080304 Marine Project,GR011419.02 Sall - Chilean Seascapes - CL 607,Chile,Landscape,Eastern Pacific,Eastern Pacific Seascape,0.98,False,False,False
+CC607 LAC Valdivian Forest Ecoregion,9L080308 Chile Fisheries Project,GR011419.04 Sall - Chilean Seascapes - 485,Chile,Landscape,Eastern Pacific,Eastern Pacific Seascape,0.99,False,False,False
+CC620 Amazon - Forest Goal,9L082701 Amazon Regional Coordination,GR010444.06 Bezos Earth Fund - Coordination - Amazon - 620,,Landscape,Amazon,Amazon,0.99,False,False,False
+CC620 Amazon - Forest Goal,9L082701 Amazon Regional Coordination,GR000011.01 Uncovered Salaries and Expenses,,Landscape,Amazon,Amazon,0.946,False,False,False
+CC620 Amazon - Forest Goal,9L082701 Amazon Regional Coordination,GR000831.01 Amazon Bucket - 620,,Landscape,Amazon,Amazon,0.982,False,False,False
+CC620 Amazon - Forest Goal,9L094470 Emergency Fund for Amazon Fires,GR000523.01 Amazon Fire Rapid Response & Recovery - 620,,Landscape,Amazon,Amazon,0.992,False,False,False
+CC633 LAC - Peru Program Office,PER00207 SW Amazon,GR011418.01 Sall - SW Amazon - 633,"Peru, Bolivia",Landscape,Amazon,Amazon,0.996,False,False,False
+CC633 LAC - Peru Program Office,PE085400 Peru Programme Management,GR011418.01 Sall - SW Amazon - 633,"Peru, Bolivia",Landscape,Amazon,Amazon,0.99,False,False,False
+CC633 LAC - Peru Program Office,41000054 Forest-Enduring Earth,GR011417.08 Sall - 30x30 Global OCEM PM Salary- 409,Peru,Landscape,Amazon,Amazon,0.99,False,False,False
+CC633 LAC - Peru Program Office,PER00251 South Amazon Projects,GR011418.01 Sall - SW Amazon - 633,"Peru, Bolivia",Landscape,Amazon,Amazon,0.996,False,False,False
+CC633 LAC - Peru Program Office,PE085454 Políticas,GR011418.01 Sall - SW Amazon - 633,"Peru, Bolivia",Landscape,Amazon,Amazon,0.992,False,False,False
+CC633 LAC - Peru Program Office,PER00237 Moore_30X32,GR012343.04 Moore_30X30 - PE cc633 0% Ind for grants and consultancies,,,,Amazon,0.994,False,False,
+CC633 LAC - Peru Program Office,PER00237 Moore_30X31,GR012343.03 Moore_30X30 - PE cc633 12.5% to Peru,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,PER00237 Moore_30X30,GR012343.02 Moore_30X30 - PE cc633 12.5% to HQ,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,PER00212 HPI  Global Forest Protection,GR011345.02 HPI - Global Forests Protection - Forests - PR-CC633,,,,Amazon,0.998,False,False,
+CC633 LAC - Peru Program Office,PE085400 Peru Programme Management,GR012343.02 Moore_30X30 - PE cc633 12.5% to HQ,,,,Amazon,0.998,False,False,
+CC633 LAC - Peru Program Office,PER00086 Securing the Future of Perus Natural Protected Areas,GR007700.05 WWF-GEF Securing the Future of Peru´s Protected Areas - 633,,,,Amazon,0.986,False,False,
+CC633 LAC - Peru Program Office,PE085400 Peru Programme Management,GR007700.05 WWF-GEF Securing the Future of Peru´s Protected Areas - 633,,,,Amazon,0.99,False,False,
+CC633 LAC - Peru Program Office,PE085403 Peru Office running costs,GR012343.03 Moore_30X30 - PE cc633 12.5% to Peru,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,PE085400 Peru Programme Management,GR010441.05 Bezos-PFP-Coordination Fund - 633,,,,Amazon,0.998,False,False,
+CC633 LAC - Peru Program Office,BEF00001 Bezos  PFP  Peru,GR010441.05 Bezos-PFP-Coordination Fund - 633,,,,Amazon,0.998,False,False,
+CC633 LAC - Peru Program Office,PER00252 Pacific Projects,GR012343.02 Moore_30X30 - PE cc633 12.5% to HQ,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,PER00211 WWF Peru Alliance for Legal Fisheries: Addressing IUU in Mahi Mahi and Jumbo Squid FIPs,GR010576.02 Walton WWF Peru Alliance for Legal Fisheries: Addressing IUU in Mahi Mahi and Jumbo Squid FIPs - CC633,,,,Amazon,0.97,False,False,
+CC633 LAC - Peru Program Office,PE085452 Comunicaciones,GR012343.02 Moore_30X30 - PE cc633 12.5% to HQ,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,PE085454 Políticas,GR012343.02 Moore_30X30 - PE cc633 12.5% to HQ,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,9Z127208 Peruvian Mahi Mahi FIP,GR011302.02 Bucket - FIP - Peru Mahi Mahi - 633,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,9Z127208 Peruvian Mahi Mahi FIP,GR012343.02 Moore_30X30 - PE cc633 12.5% to HQ,,,,Amazon,0.998,False,False,
+CC633 LAC - Peru Program Office,PE085400 Peru Programme Management,GR010576.02 Walton WWF Peru Alliance for Legal Fisheries: Addressing IUU in Mahi Mahi and Jumbo Squid FIPs - CC633,,,,Amazon,0.998,False,False,
+CC633 LAC - Peru Program Office,BEF00001 Bezos  PFP  Peru,GR007700.05 WWF-GEF Securing the Future of Peru´s Protected Areas - 633,,,,Amazon,0.994,False,False,
+CC633 LAC - Peru Program Office,PER00211 WWF Peru Alliance for Legal Fisheries: Addressing IUU in Mahi Mahi and Jumbo Squid FIPs,GR010576.03 Walton WWF Peru Alliance for Legal Fisheries: Addressing IUU in Mahi Mahi and Jumbo Squid FIPs - CC633 Fund 23,,,,Amazon,0.968,False,False,
+CC633 LAC - Peru Program Office,PE085403 Peru Office running costs,GR007700.05 WWF-GEF Securing the Future of Peru´s Protected Areas - 633,,,,Amazon,0.996,False,False,
+CC633 LAC - Peru Program Office,PER00116 Amazon Coordination Unit,GR012287.05 Charles Stewart Mott Foundation - Expanding Renewable Energy in the Amazon (non-Brazil) 2024-2025 - 633,,,,Amazon,0.994,False,False,
+CC633 LAC - Peru Program Office,PE085403 Peru Office running costs,GR011345.02 HPI - Global Forests Protection - Forests - PR-CC633,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,BEF00001 Bezos  PFP  Peru,GR010441.13 Bezos-PFP-Transition Funds - 633,,,,Amazon,0.998,False,False,
+CC633 LAC - Peru Program Office,PE085452 Comunicaciones,GR011345.02 HPI - Global Forests Protection - Forests - PR-CC633,,,,Amazon,0.996,False,False,
+CC633 LAC - Peru Program Office,PER00252 Pacific Projects,GR010576.02 Walton WWF Peru Alliance for Legal Fisheries: Addressing IUU in Mahi Mahi and Jumbo Squid FIPs - CC633,,,,Amazon,0.996,False,False,
+CC633 LAC - Peru Program Office,PER00252 Pacific Projects,GR011168.06 Costco Peru Mahi/Squid FIPs - CC633,,,,Amazon,1.0,False,False,
+CC633 LAC - Peru Program Office,PE085400 Peru Programme Management,GR011168.06 Costco Peru Mahi/Squid FIPs - CC633,,,,Amazon,0.996,False,False,
+CC634 LAC - Bolivia Program Office,"BO300300 Amazon Freshwater Bolivia, Perú & Regional",GR012287.03 Charles Stewart Mott Foundation - Expanding Renewable Energy in the Amazon (non-Brazil) 24/25 - Bolivia - 634,,,,Amazon,0.948,False,False,
+CC634 LAC - Bolivia Program Office,BO100700 Iténez Protected Area - Bolivia,GR007700.16 WWF GEF Agency Fees Boliva - CC634,,,,Amazon,0.914,False,False,
+CC638 Mexico DF Office - Mexico,MX087604 Mitigation,GR012241.02 Google c/o Tides Fdtn - ManglarIA (AI) for Mangroves - Climate - 638,,,,Amazon,0.688,True,False,
+CC638 Mexico DF Office - Mexico,MX085101 Protected Areas Finance - Marine,GR010442.04 Bezos Mangroves - 638,,,,Amazon,0.642,True,False,
+CC638 Mexico DF Office - Mexico,MX085102 Marine Ecosystems and Species,GR010442.04 Bezos Mangroves - 638,,,,Amazon,0.606,True,False,
+CC638 Mexico DF Office - Mexico,MX087503 Water Stewardship-Wildlife,GR012682.02 GCF - P and G - US Sustainability Partnership  Watershed Restoration Mexico - MX cc638 indirects to Mexico,,,,Amazon,0.406,True,False,
+CC638 Mexico DF Office - Mexico,MX087503 Water Stewardship-Wildlife,GR010442.04 Bezos Mangroves - 638,,,,Amazon,0.494,True,False,
+CC638 Mexico DF Office - Mexico,MX086403 Mexico F&A Direction,GR010442.04 Bezos Mangroves - 638,,,,Amazon,0.686,True,False,
+CC638 Mexico DF Office - Mexico,MX087503 Water Stewardship-Wildlife,GR011232.05 Starbucks-Greener Stores - Rio Grande - MX cc638 12.5% ind. to MX,,,,Great Plains,0.758,False,False,
+CC643 LAC - Guyana (British),9L204900 FR1: Improved forest landscape management (IFM),GR010615.02 Securing a Living Amazon Guyana CC643,,Landscape,Amazon,Amazon,0.968,False,False,False
+CC643 LAC - Guyana (British),9L208600 FR0: Forest Program Management,GR007700.19 CC643 GEF Project Supervision Guyana,,,,Amazon,0.946,False,False,
+CC652 Ecuador,EC210500 Project supervision for the Project Biodiversity conservation and sustainable management of two priority landscapes in,GR007700.10 Agency Fee Ecuador Supervision CC652,,,,Amazon,0.894,False,False,
+CC657 LAC - Paraguay,9L081500 Atlantic Forest Ecoregion Coordination for Conservation,GR000406.15 Climate Change Adaption and Resilience Bucket - 657,Paraguay,Resilience,,Amazon,0.414,True,False,
+CC657 LAC - Paraguay,9L081509 Market Transformation Initiative Paraguay,GR013103.04 Moore DCF Finance Renewal CC657 12.5%,Paraguay ,Private Sector ,,Amazon,0.632,True,False,
+CC657 LAC - Paraguay,9L081509 Market Transformation Initiative Paraguay,GR013103.03 Moore DCF Finance Renewal CC657 0%,Paraguay ,Private Sector ,,Amazon,0.646,True,False,
+CC657 LAC - Paraguay,9L081509 Market Transformation Initiative Paraguay,GR012231.03 Moore CMI 2.0 CC657 12.5%,Paraguay ,Private Sector ,,Amazon,0.648,True,False,
+CC700 Network Development General,70000010 UNDP/IKI Main,GR012189.01 Enabling and Scaling Up Nature-Related Financial Disclosures - 700,,Other,,Amazon,0.426,True,False,
+CC705 Global Practice Groups,70500003 Global Forest Practice,GR005G09.02 Network Finance Practice - HQ cc705,,Other,,Amazon,0.548,True,False,
+CC705 Global Practice Groups,70000004 Ombudsperson,GR013186.01 Ombudperson hosting in WWF US - CC705 - 8.5%,,Other,,Amazon,0.372,True,False,
+CC705 Global Practice Groups,70500005 Global Finance Practice,GR005G09.02 Network Finance Practice - HQ cc705,,Other,,Amazon,0.504,True,False,
+CC705 Global Practice Groups,70500006 Global Food Practice,GR005G09.02 Network Finance Practice - HQ cc705,,Other,,Amazon,0.478,True,False,
+CC705 Global Practice Groups,70000003 Global Conservation Director,GR005G09.02 Network Finance Practice - HQ cc705,,Other,,Amazon,0.516,True,False,
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR010624.01 Mainstreaming biodiversity conservation in the Tourism Sector Colombia,Colombia ,Other,Amazon ,Amazon,0.768,False,False,False
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR010616.03 WWF Ecuador Biodiversity conservation and sustainable management of two priority landscapes in the Ecuadorian Amazon,Ecuador,Landscape,Amazon,Amazon,0.896,False,False,False
+CC710 Network Development GEF,MG007000 Madagascar's Marine Protected Areas Network,GR007807.01 Madagascar's marine Protected Areas Network - 701,,Landscape,SWIO,Southwest Indian Ocean,0.616,False,False,False
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR010555.01 Promoting Dryland Sustainable Landscapes and Biodiversity Conservation in the Eastern Steppe of Mongolia,Mongolia,Landscape,,SW Pacific + Indonesia,0.432,True,False,
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR010619.02 Strengthening Marine Resource Management of Micronesian Large Ocean States - 710,,Landscape,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.744,False,False,False
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR010618.01 Melanesia Fishers,,Resilience,Indonesia and Southern Pacific Islands,SW Pacific + Indonesia,0.806,False,False,False
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,"GR010614.01 Food Systems, Land Use and Restoration in Tanzanias Forest Landscapes 710",Tanzania ,Resilience,,Southwest Indian Ocean,0.598,False,False,
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR011673.01 Lake Naivasha Basin Ecosystem Based Management,Kenya,Resilience,,SW Pacific + Indonesia,0.522,True,False,
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR010859.01 Establishing the Taskforce on Nature-related Financial Disclosures (TNFD),,Private Sector ,,SW Pacific + Indonesia,0.548,True,False,
+CC710 Network Development GEF,9Z142902 GEF Manangement Unit,GR007805.01 Land Degradation Neutrality Fund Technical Assistance Facility - 710,,Resilience,,SW Pacific + Indonesia,0.6,True,False,
+CC720 WWF Impact,IMPCT000 WWF Impact,GR000011.01 Uncovered Salaries and Expenses,,Finance,,Amazon,0.474,True,False,
+CC720 WWF Impact,IMPCT000 WWF Impact,GR000041.01 Innovation Fund 2,,Finance,,Amazon,0.608,True,False,
+CC720 WWF Impact,IMPCT000 WWF Impact,GR012883.01 Builders Initiative Seaweed Operations Impact- 720,,Finance,,Amazon,0.496,True,False,
+CC720 WWF Impact,IMPCT000 WWF Impact,GR000876.03 Impact Investing Bucket - 720,,Finance,,Amazon,0.7,True,False,
+CC723 Global Policy,70500009 Global Policy and Advocacy,GR000001.01 Program Unrestricted - cc000,,Other,,Amazon,0.526,True,False,
+CC723 Global Policy,70500010 TFFF,GR004358.11 Sall - Global Policy - 723,,Finance,Amazon,Amazon,0.846,True,False,False
+CC723 Global Policy,70500010 TFFF,GR013068.01 RBF TFFF - 723,,Finance,Amazon,Amazon,0.744,True,False,False
+CC725 President's Office - Boundless,NATRNTWK Boundless Administration,GR011687.01 Merlin - TA Barron - Nature Network Fellowship - 725,,Other,,Amazon,0.508,True,False,
+CC725 President's Office - Boundless,725BNDLS Boundless Programming,GR012023.01 Nature Network - Trudy Fellowship,,Other,,Amazon,0.51,True,False,
+CC725 President's Office - Boundless,NATRNTWK Boundless Administration,GR004950.14 Ubbens - Boundless - 725,,Other,,Amazon,0.646,True,False,
+CC725 President's Office - Boundless,725BNDLS Boundless Programming,GR004950.14 Ubbens - Boundless - 725,,Other,,Amazon,0.644,True,False,
+CC730 CC730 Green Accelerator Fund,40700000 Conservation Programs,GR013242.01 Palladium Speers - Green Accelerator Fund - CC730,,Other,,Amazon,0.554,True,False,
+CC730 CC730 Green Accelerator Fund,40700000 Conservation Programs,GR013113.01 Merlin Foundation/T. Barron-The Green Accelerator Fund - CC730,,Other,,Amazon,0.516,True,False,
+CC731 Nature Finance Central,NF000001 Nature Finance,GR000011.03 Institutional Commitments,,Finance,,Amazon,0.676,True,False,
+CC732 Public Finance,NF000001 Nature Finance,GR000011.01 Uncovered Salaries and Expenses,,Finance,,Amazon,0.618,True,False,
+CC733 Private Finance,NF000001 Nature Finance,GR000011.03 Institutional Commitments,,Finance,,Amazon,0.688,True,False,
+WD Cost Center Hierarchy (Uncategorized),ID020203 Coastal Ecosystem Conserved Areas,GR012415.01 DAF - Oceans Bucket,,Landscape,,Amazon,0.554,True,False,
+,10519001 Private Finance Outcome 1 - Banks & DCF,GR011161.02 Moore Baselining for Financial Institutions CC443 12.5%,,Private Sector ,,Amazon,0.636,True,False,
+,,GR004815.02 Shawman Creek. - Sniffer Dogs - 451,,Resilience,,Amazon,0.63,True,False,
